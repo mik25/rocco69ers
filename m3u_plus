@@ -1895,5 +1895,4 @@ http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/29690.m3u
 http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/29689.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FA CUP: 2 Round Draw" tvg-logo="http://picon.domin8.tv/FACUP.png" group-title="EPL SEASON TICKET",FA CUP: 2 Round Draw
 http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/29688.m3u8
-
-
+http://23.237.22.82:8086/udp/127.0.0.1:56016
