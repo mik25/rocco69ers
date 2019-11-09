@@ -397,6 +397,1090 @@ http://wagnet.club:25461/ste/ward/211
 http://wagnet.club:25461/ste/ward/212
 #EXTINF:-1 tvg-id="" tvg-name="Rush Sport 5" tvg-logo="" group-title="Rush Sports",Rush Sport 5
 http://wagnet.club:25461/ste/ward/213
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@ MATT BACKUP 1 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+#EXTM3U
+#EXTINF:-1 tvg-id="bbc1.uk" tvg-name="BBC ONE FHD" tvg-logo="http://targetcreates.com/reloaded-logos/BBC1.png" group-title="UK ENTERTAINMENT",BBC ONE FHD
+http://wagnet.club:25461/greg/greg/1
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="BBC TWO FHD" tvg-logo="http://targetcreates.com/reloaded-logos/BBC2.png" group-title="UK ENTERTAINMENT",BBC TWO FHD
+http://wagnet.club:25461/greg/greg/2
+#EXTINF:-1 tvg-id="itv1anglia.uk" tvg-name="ITV1 FHD" tvg-logo="http://targetcreates.com/reloaded-logos/ITV1.png" group-title="UK ENTERTAINMENT",ITV1 FHD
+http://wagnet.club:25461/greg/greg/3
+#EXTINF:-1 tvg-id="channel4.uk" tvg-name="CHANNEL 4 FHD" tvg-logo="http://targetcreates.com/reloaded-logos/Channel%204.png" group-title="UK ENTERTAINMENT",CHANNEL 4 FHD
+http://wagnet.club:25461/greg/greg/4
+#EXTINF:-1 tvg-id="channel5.uk" tvg-name="CHANNEL 5 FHD" tvg-logo="http://targetcreates.com/reloaded-logos/Channel%205.png" group-title="UK ENTERTAINMENT",CHANNEL 5 FHD
+http://wagnet.club:25461/greg/greg/5
+#EXTINF:-1 tvg-id="sky1.uk" tvg-name="SKY ONE FHD" tvg-logo="http://targetcreates.com/reloaded-logos/Sky%201.png" group-title="UK ENTERTAINMENT",SKY ONE FHD
+http://wagnet.club:25461/greg/greg/6
+#EXTINF:-1 tvg-id="itv2.uk" tvg-name="ITV2 FHD" tvg-logo="http://targetcreates.com/reloaded-logos/ITV2.png" group-title="UK ENTERTAINMENT",ITV2 FHD
+http://wagnet.club:25461/greg/greg/10
+#EXTINF:-1 tvg-id="itv3.uk" tvg-name="ITV3 FHD" tvg-logo="http://targetcreates.com/reloaded-logos/ITV3.png" group-title="UK ENTERTAINMENT",ITV3 FHD
+http://wagnet.club:25461/greg/greg/11
+#EXTINF:-1 tvg-id="itv4.uk" tvg-name="ITV4 FHD" tvg-logo="http://targetcreates.com/reloaded-logos/ITV4.png" group-title="UK ENTERTAINMENT",ITV4 FHD
+http://wagnet.club:25461/greg/greg/12
+#EXTINF:-1 tvg-id="itvbe.uk" tvg-name="ITVBe FHD" tvg-logo="http://targetcreates.com/reloaded-logos/ITVBe.png" group-title="UK ENTERTAINMENT",ITVBe FHD
+http://wagnet.club:25461/greg/greg/13
+#EXTINF:-1 tvg-id="" tvg-name="SKY CRIME FHD" tvg-logo="" group-title="UK ENTERTAINMENT",SKY CRIME FHD
+http://wagnet.club:25461/greg/greg/9
+#EXTINF:-1 tvg-id="skyatlantic.uk" tvg-name="SKY ATLANTIC FHD" tvg-logo="http://targetcreates.com/reloaded-logos/Sky%20Atlantic.png" group-title="UK ENTERTAINMENT",SKY ATLANTIC FHD
+http://wagnet.club:25461/greg/greg/8
+#EXTINF:-1 tvg-id="dave.uk" tvg-name="DAVE FHD" tvg-logo="http://targetcreates.com/reloaded-logos/Dave.png" group-title="UK ENTERTAINMENT",DAVE FHD
+http://wagnet.club:25461/greg/greg/16
+#EXTINF:-1 tvg-id="gold.uk" tvg-name="GOLD FHD" tvg-logo="http://targetcreates.com/reloaded-logos/GOLD.png" group-title="UK ENTERTAINMENT",GOLD FHD
+http://wagnet.club:25461/greg/greg/15
+#EXTINF:-1 tvg-id="w.uk" tvg-name="W FHD" tvg-logo="" group-title="UK ENTERTAINMENT",W FHD
+http://wagnet.club:25461/greg/greg/14
+#EXTINF:-1 tvg-id="skywitnessplus1.uk" tvg-name="SKY WITNESS FHD" tvg-logo="http://smart-house.tn/logo.smart-house.tn/logo/ss/sky-witness-uk.png" group-title="UK ENTERTAINMENT",SKY WITNESS FHD
+http://wagnet.club:25461/greg/greg/7
+#EXTINF:-1 tvg-id="fox.uk" tvg-name="FOX FHD" tvg-logo="http://targetcreates.com/reloaded-logos/FOX%20UK.png" group-title="UK ENTERTAINMENT",FOX FHD
+http://wagnet.club:25461/greg/greg/22
+#EXTINF:-1 tvg-id="eentertainment.uk" tvg-name="E! FHD" tvg-logo="http://targetcreates.com/reloaded-logos/E!%20UK.png" group-title="UK ENTERTAINMENT",E! FHD
+http://wagnet.club:25461/greg/greg/21
+#EXTINF:-1 tvg-id="skyarts.uk" tvg-name="SKY ARTS FHD" tvg-logo="http://targetcreates.com/reloaded-logos/Sky%20Arts.png" group-title="UK ENTERTAINMENT",SKY ARTS FHD
+http://wagnet.club:25461/greg/greg/20
+#EXTINF:-1 tvg-id="bbcscotland.uk" tvg-name="BBC SCOTLAND FHD" tvg-logo="" group-title="UK ENTERTAINMENT",BBC SCOTLAND FHD
+http://wagnet.club:25461/greg/greg/49
+#EXTINF:-1 tvg-id="bbc4.uk" tvg-name="BBC FOUR FHD" tvg-logo="http://targetcreates.com/reloaded-logos/BBC4.png" group-title="UK ENTERTAINMENT",BBC FOUR FHD
+http://wagnet.club:25461/greg/greg/45
+#EXTINF:-1 tvg-id="stv.uk" tvg-name="STV FHD" tvg-logo="" group-title="UK ENTERTAINMENT",STV FHD
+http://wagnet.club:25461/greg/greg/44
+#EXTINF:-1 tvg-id="lifetime.uk" tvg-name="LIFETIME FHD" tvg-logo="http://targetcreates.com/reloaded-logos/Lifetime%20UK.png" group-title="UK ENTERTAINMENT",LIFETIME FHD
+http://wagnet.club:25461/greg/greg/41
+#EXTINF:-1 tvg-id="Paramount.uk" tvg-name="PARAMOUNT FHD" tvg-logo="" group-title="UK ENTERTAINMENT",PARAMOUNT FHD
+http://wagnet.club:25461/greg/greg/37
+#EXTINF:-1 tvg-id="quest.uk" tvg-name="QUEST FHD" tvg-logo="http://smart-house.tn/logo.smart-house.tn/logo/qq/quest_us.png" group-title="UK ENTERTAINMENT",QUEST FHD
+http://wagnet.club:25461/greg/greg/34
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="4SEVEN FHD" tvg-logo="http://smart-house.tn/logo.smart-house.tn/logo/num/4-seven-uk.png" group-title="UK ENTERTAINMENT",4SEVEN FHD
+http://wagnet.club:25461/greg/greg/33
+#EXTINF:-1 tvg-id="more4.uk" tvg-name="MORE4 FHD" tvg-logo="http://smart-house.tn/logo.smart-house.tn/logo/mm/more-4-uk.png" group-title="UK ENTERTAINMENT",MORE4 FHD
+http://wagnet.club:25461/greg/greg/32
+#EXTINF:-1 tvg-id="e4.uk" tvg-name="E4 FHD" tvg-logo="http://smart-house.tn/logo.smart-house.tn/logo/ee/e4_uk.png" group-title="UK ENTERTAINMENT",E4 FHD
+http://wagnet.club:25461/greg/greg/31
+#EXTINF:-1 tvg-id="tlc.uk" tvg-name="TLC FHD" tvg-logo="http://targetcreates.com/reloaded-logos/TLC%20US.png" group-title="UK ENTERTAINMENT",TLC FHD
+http://wagnet.club:25461/greg/greg/30
+#EXTINF:-1 tvg-id="alibi.uk" tvg-name="ALIBI FHD" tvg-logo="http://smart-house.tn/logo.smart-house.tn/logo/aa/alibi_uktv_uk.png" group-title="UK ENTERTAINMENT",ALIBI FHD
+http://wagnet.club:25461/greg/greg/29
+#EXTINF:-1 tvg-id="syfy.uk" tvg-name="SYFY FHD" tvg-logo="http://targetcreates.com/reloaded-logos/Syfy.png" group-title="UK ENTERTAINMENT",SYFY FHD
+http://wagnet.club:25461/greg/greg/19
+#EXTINF:-1 tvg-id="universal.uk" tvg-name="UNIVERSAL FHD" tvg-logo="http://targetcreates.com/reloaded-logos/Universal%20Channel%20UK.png" group-title="UK ENTERTAINMENT",UNIVERSAL FHD
+http://wagnet.club:25461/greg/greg/18
+#EXTINF:-1 tvg-id="comedycentral.uk" tvg-name="COMEDY CENT FHD" tvg-logo="http://targetcreates.com/reloaded-logos/Comedy%20Central%20UK.png" group-title="UK ENTERTAINMENT",COMEDY CENT FHD
+http://wagnet.club:25461/greg/greg/17
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="SKY CINEMA PREMIER FHD" tvg-logo="http://targetcreates.com/reloaded-logos/Sky%20Premiere.png" group-title="UK Movies",SKY CINEMA PREMIER FHD
+http://wagnet.club:25461/greg/greg/72
+#EXTINF:-1 tvg-id="skyhits.uk" tvg-name="SKY CINEMA HITS FHD" tvg-logo="https://media.info/i/lf/0/1507843286/1438.png" group-title="UK Movies",SKY CINEMA HITS FHD
+http://wagnet.club:25461/greg/greg/73
+#EXTINF:-1 tvg-id="skyselect.uk" tvg-name="SKY CINEMA SELECT FHD" tvg-logo="http://targetcreates.com/reloaded-logos/Sky%20Select.png" group-title="UK Movies",SKY CINEMA SELECT FHD
+http://wagnet.club:25461/greg/greg/82
+#EXTINF:-1 tvg-id="skycrimethriller.uk" tvg-name="SKY CINEMA THRILLER FHD" tvg-logo="http://targetcreates.com/reloaded-logos/Sky%20Thriller.png" group-title="UK Movies",SKY CINEMA THRILLER FHD
+http://wagnet.club:25461/greg/greg/80
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-name="SKY CINEMA ACTION FHD" tvg-logo="http://targetcreates.com/reloaded-logos/Sky%20Action.png" group-title="UK Movies",SKY CINEMA ACTION FHD
+http://wagnet.club:25461/greg/greg/77
+#EXTINF:-1 tvg-id="skydisney.uk" tvg-name="SKY CINEMA DISNEY FHD" tvg-logo="http://targetcreates.com/reloaded-logos/Sky%20Disney.png" group-title="UK Movies",SKY CINEMA DISNEY FHD
+http://wagnet.club:25461/greg/greg/76
+#EXTINF:-1 tvg-id="skycomedy.uk" tvg-name="SKY CINEMA COMEDY FHD" tvg-logo="http://targetcreates.com/reloaded-logos/Sky%20Comedy.png" group-title="UK Movies",SKY CINEMA COMEDY FHD
+http://wagnet.club:25461/greg/greg/75
+#EXTINF:-1 tvg-id="skyfamily.uk" tvg-name="SKY CINEMA FAMILY FHD" tvg-logo="http://targetcreates.com/reloaded-logos/Sky%20Family.png" group-title="UK Movies",SKY CINEMA FAMILY FHD
+http://wagnet.club:25461/greg/greg/74
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="SKY CINEMA GREATS FHD" tvg-logo="http://targetcreates.com/reloaded-logos/Sky%20Greats.png" group-title="UK Movies",SKY CINEMA GREATS FHD
+http://wagnet.club:25461/greg/greg/81
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="SKY CINEMA DRAMA FHD" tvg-logo="http://targetcreates.com/reloaded-logos/Sky%20DramaRom.png" group-title="UK Movies",SKY CINEMA DRAMA FHD
+http://wagnet.club:25461/greg/greg/78
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="SKY CINEMA SCI-FI FHD" tvg-logo="http://targetcreates.com/reloaded-logos/Sky%20ScFi%20Horror.png" group-title="UK Movies",SKY CINEMA SCI-FI FHD
+http://wagnet.club:25461/greg/greg/79
+#EXTINF:-1 tvg-id="tcm.uk" tvg-name="TCM FHD" tvg-logo="http://targetcreates.com/reloaded-logos/TCM.png" group-title="UK Movies",TCM FHD
+http://wagnet.club:25461/greg/greg/38
+#EXTINF:-1 tvg-id="film4.uk" tvg-name="FILM 4 FHD" tvg-logo="http://targetcreates.com/reloaded-logos/Film4.png" group-title="UK Movies",FILM 4 FHD
+http://wagnet.club:25461/greg/greg/40
+#EXTINF:-1 tvg-id="cbbc.uk" tvg-name="CBBC FHD" tvg-logo="http://targetcreates.com/reloaded-logos/CBBC.png" group-title="UK Kids",CBBC FHD
+http://wagnet.club:25461/greg/greg/69
+#EXTINF:-1 tvg-id="cbeebies.uk" tvg-name="CBEEBIES FHD" tvg-logo="http://targetcreates.com/reloaded-logos/CBeebies.png" group-title="UK Kids",CBEEBIES FHD
+http://wagnet.club:25461/greg/greg/68
+#EXTINF:-1 tvg-id="babytv.uk" tvg-name="BABY TV" tvg-logo="http://targetcreates.com/reloaded-logos/Baby%20TV.png" group-title="UK Kids",BABY TV
+http://wagnet.club:25461/greg/greg/67
+#EXTINF:-1 tvg-id="citv.uk" tvg-name="CITV" tvg-logo="http://targetcreates.com/reloaded-logos/CITV.png" group-title="UK Kids",CITV
+http://wagnet.club:25461/greg/greg/57
+#EXTINF:-1 tvg-id="disneyxd.uk" tvg-name="DISNEY XD" tvg-logo="http://targetcreates.com/reloaded-logos/Disney%20XD%20UK.png" group-title="UK Kids",DISNEY XD
+http://wagnet.club:25461/greg/greg/55
+#EXTINF:-1 tvg-id="disneyjunior.uk" tvg-name="DISNEY JUNIOR" tvg-logo="http://targetcreates.com/reloaded-logos/Disney%20Junior%20UK.png" group-title="UK Kids",DISNEY JUNIOR
+http://wagnet.club:25461/greg/greg/54
+#EXTINF:-1 tvg-id="disneychannel.uk" tvg-name="DISNEY CHANNEL" tvg-logo="http://targetcreates.com/reloaded-logos/Disney%20Channel%20UK.png" group-title="UK Kids",DISNEY CHANNEL
+http://wagnet.club:25461/greg/greg/53
+#EXTINF:-1 tvg-id="nickelodeon.uk" tvg-name="NICK FHD" tvg-logo="http://targetcreates.com/reloaded-logos/Nickelodeon%20UK.png" group-title="UK Kids",NICK FHD
+http://wagnet.club:25461/greg/greg/52
+#EXTINF:-1 tvg-id="boomerang.uk" tvg-name="BOOMERANG" tvg-logo="http://targetcreates.com/reloaded-logos/Boomerang%20UK.png" group-title="UK Kids",BOOMERANG
+http://wagnet.club:25461/greg/greg/51
+#EXTINF:-1 tvg-id="cartoonnetwork.uk" tvg-name="CARTOON NETWORK FHD" tvg-logo="http://targetcreates.com/reloaded-logos/Cartoon%20Network%20UK.png" group-title="UK Kids",CARTOON NETWORK FHD
+http://wagnet.club:25461/greg/greg/50
+#EXTINF:-1 tvg-id="nickjunior.uk" tvg-name="Nick Jr" tvg-logo="http://targetcreates.com/reloaded-logos/Nick%20Jr%20UK.png" group-title="UK Kids",Nick Jr
+http://wagnet.club:25461/greg/greg/690
+#EXTINF:-1 tvg-id="nickjrtoo.uk" tvg-name="Nick Jr Too" tvg-logo="http://targetcreates.com/reloaded-logos/Nick%20Jr%20Too%20UK.png" group-title="UK Kids",Nick Jr Too
+http://wagnet.club:25461/greg/greg/691
+#EXTINF:-1 tvg-id="crimeandinvestigationnetwork.uk" tvg-name="crime investigation" tvg-logo="" group-title="UK Documentary",crime investigation
+http://wagnet.club:25461/greg/greg/189
+#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE FHD" tvg-logo="" group-title="UK Documentary",LOVE NATURE FHD
+http://wagnet.club:25461/greg/greg/42
+#EXTINF:-1 tvg-id="eden.uk" tvg-name="EDEN FHD" tvg-logo="http://smart-house.tn/logo.smart-house.tn/logo/ee/eden_uktv.png" group-title="UK Documentary",EDEN FHD
+http://wagnet.club:25461/greg/greg/39
+#EXTINF:-1 tvg-id="yesterday.uk" tvg-name="YESTERDAY" tvg-logo="http://targetcreates.com/reloaded-logos/YESTERDAY.png" group-title="UK Documentary",YESTERDAY
+http://wagnet.club:25461/greg/greg/166
+#EXTINF:-1 tvg-id="discoveryturbo.uk" tvg-name="DISCOVERY TURBO" tvg-logo="http://targetcreates.com/reloaded-logos/Discovery%20Turbo%20UK.png" group-title="UK Documentary",DISCOVERY TURBO
+http://wagnet.club:25461/greg/greg/165
+#EXTINF:-1 tvg-id="discoveryscience.uk" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://targetcreates.com/reloaded-logos/Discovery%20Science%20UK.png" group-title="UK Documentary",DISCOVERY SCIENCE
+http://wagnet.club:25461/greg/greg/164
+#EXTINF:-1 tvg-id="discoveryshed.uk" tvg-name="DISCOVERY SHED" tvg-logo="http://targetcreates.com/reloaded-logos/Discovery%20Shed%20UK.png" group-title="UK Documentary",DISCOVERY SHED
+http://wagnet.club:25461/greg/greg/163
+#EXTINF:-1 tvg-id="discoveryhistory.uk" tvg-name="DISCOVERY HISTORY" tvg-logo="http://targetcreates.com/reloaded-logos/Discovery%20HISTORY%20UK.png" group-title="UK Documentary",DISCOVERY HISTORY
+http://wagnet.club:25461/greg/greg/162
+#EXTINF:-1 tvg-id="animalplanet.uk" tvg-name="ANIMAL PLANT FHD" tvg-logo="http://targetcreates.com/reloaded-logos/Animal%20Planet%20UK.png" group-title="UK Documentary",ANIMAL PLANT FHD
+http://wagnet.club:25461/greg/greg/36
+#EXTINF:-1 tvg-id="crimeandinvestigationnetwork.uk" tvg-name="CRIME+INV FHD" tvg-logo="http://targetcreates.com/reloaded-logos/CI%20UK.png" group-title="UK Documentary",CRIME+INV FHD
+http://wagnet.club:25461/greg/greg/35
+#EXTINF:-1 tvg-id="history2.uk" tvg-name="H2 FHD" tvg-logo="http://targetcreates.com/reloaded-logos/H2%20UK.png" group-title="UK Documentary",H2 FHD
+http://wagnet.club:25461/greg/greg/28
+#EXTINF:-1 tvg-id="historychannel.uk" tvg-name="HISTORY FHD" tvg-logo="http://targetcreates.com/reloaded-logos/HISTORY%20UK.png" group-title="UK Documentary",HISTORY FHD
+http://wagnet.club:25461/greg/greg/27
+#EXTINF:-1 tvg-id="natgeowild.uk" tvg-name="NAT GEO WILD FHD" tvg-logo="http://targetcreates.com/reloaded-logos/Nat%20Geo%20Wild%20UK.png" group-title="UK Documentary",NAT GEO WILD FHD
+http://wagnet.club:25461/greg/greg/26
+#EXTINF:-1 tvg-id="natgeo.uk" tvg-name="NAT GEO FHD" tvg-logo="http://targetcreates.com/reloaded-logos/National%20Geo%20US.png" group-title="UK Documentary",NAT GEO FHD
+http://wagnet.club:25461/greg/greg/25
+#EXTINF:-1 tvg-id="discoverychannel.uk" tvg-name="DISCOVERY FHD" tvg-logo="http://targetcreates.com/reloaded-logos/Discovery%20UK.png" group-title="UK Documentary",DISCOVERY FHD
+http://wagnet.club:25461/greg/greg/23
+#EXTINF:-1 tvg-id="cnn.uk" tvg-name="CNN" tvg-logo="http://targetcreates.com/reloaded-logos/CNN%20US.png" group-title="UK News",CNN
+http://wagnet.club:25461/greg/greg/168
+#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS" tvg-logo="http://targetcreates.com/reloaded-logos/NYFOX.png" group-title="UK News",FOX NEWS
+http://wagnet.club:25461/greg/greg/167
+#EXTINF:-1 tvg-id="" tvg-name="SKY NEWS FHD" tvg-logo="http://targetcreates.com/reloaded-logos/Sky%20News.png" group-title="UK News",SKY NEWS FHD
+http://wagnet.club:25461/greg/greg/48
+#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG FHD" tvg-logo="http://targetcreates.com/reloaded-logos/Bloomberg%20UK.png" group-title="UK News",BLOOMBERG FHD
+http://wagnet.club:25461/greg/greg/47
+#EXTINF:-1 tvg-id="" tvg-name="BBC  WORLD NEWS" tvg-logo="http://smart-house.tn/logo.smart-house.tn/logo/bb/bbc_world_news_uk.png" group-title="UK News",BBC  WORLD NEWS
+http://wagnet.club:25461/greg/greg/46
+#EXTINF:-1 tvg-id="" tvg-name="MTV FHD" tvg-logo="http://targetcreates.com/reloaded-logos/MTV%20UK.png" group-title="UK Music",MTV FHD
+http://wagnet.club:25461/greg/greg/24
+#EXTINF:-1 tvg-id="" tvg-name="MAGIC" tvg-logo="http://targetcreates.com/reloaded-logos/Magic.png" group-title="UK Music",MAGIC
+http://wagnet.club:25461/greg/greg/71
+#EXTINF:-1 tvg-id="" tvg-name="MTV CLUB" tvg-logo="http://targetcreates.com/reloaded-logos/MTV%20US.png" group-title="UK Music",MTV CLUB
+http://wagnet.club:25461/greg/greg/70
+#EXTINF:-1 tvg-id="" tvg-name="4Music" tvg-logo="http://targetcreates.com/reloaded-logos/4Music.png" group-title="UK Music",4Music
+http://wagnet.club:25461/greg/greg/66
+#EXTINF:-1 tvg-id="" tvg-name="MTV Classics" tvg-logo="http://mo-salah.net:24561/_tvlogo/1571189813_00dc68e53a51490e.png" group-title="UK Music",MTV Classics
+http://wagnet.club:25461/greg/greg/65
+#EXTINF:-1 tvg-id="" tvg-name="CHARTSHOW TV" tvg-logo="http://targetcreates.com/reloaded-logos/Smash%20Hits!.png" group-title="UK Music",CHARTSHOW TV
+http://wagnet.club:25461/greg/greg/64
+#EXTINF:-1 tvg-id="" tvg-name="MTV ROCKS" tvg-logo="http://targetcreates.com/reloaded-logos/MTV%20Rocks.png" group-title="UK Music",MTV ROCKS
+http://wagnet.club:25461/greg/greg/63
+#EXTINF:-1 tvg-id="" tvg-name="MTV OMG" tvg-logo="http://mo-salah.net:24561/_tvlogo/1571189897_2d85f6c2bdb1a0f1.png" group-title="UK Music",MTV OMG
+http://wagnet.club:25461/greg/greg/62
+#EXTINF:-1 tvg-id="" tvg-name="MTV HITS" tvg-logo="http://targetcreates.com/reloaded-logos/MTV%20HITS.png" group-title="UK Music",MTV HITS
+http://wagnet.club:25461/greg/greg/61
+#EXTINF:-1 tvg-id="" tvg-name="MTV BASE" tvg-logo="http://targetcreates.com/reloaded-logos/MTV%20BASE.png" group-title="UK Music",MTV BASE
+http://wagnet.club:25461/greg/greg/60
+#EXTINF:-1 tvg-id="" tvg-name="MTV MUSIC" tvg-logo="http://targetcreates.com/reloaded-logos/MTV%20MUSIC.png" group-title="UK Music",MTV MUSIC
+http://wagnet.club:25461/greg/greg/59
+#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="http://targetcreates.com/reloaded-logos/MTV%20Live.png" group-title="UK Music",VH1
+http://wagnet.club:25461/greg/greg/58
+#EXTINF:-1 tvg-id="" tvg-name="epl 1" tvg-logo="" group-title="UK PREMIUM EPL",epl 1
+http://wagnet.club:25461/greg/greg/128
+#EXTINF:-1 tvg-id="" tvg-name="epl 2" tvg-logo="" group-title="UK PREMIUM EPL",epl 2
+http://wagnet.club:25461/greg/greg/129
+#EXTINF:-1 tvg-id="" tvg-name="epl 3" tvg-logo="" group-title="UK PREMIUM EPL",epl 3
+http://wagnet.club:25461/greg/greg/130
+#EXTINF:-1 tvg-id="" tvg-name="epl 4" tvg-logo="" group-title="UK PREMIUM EPL",epl 4
+http://wagnet.club:25461/greg/greg/131
+#EXTINF:-1 tvg-id="" tvg-name="epl 5" tvg-logo="" group-title="UK PREMIUM EPL",epl 5
+http://wagnet.club:25461/greg/greg/132
+#EXTINF:-1 tvg-id="" tvg-name="epl 6" tvg-logo="" group-title="UK PREMIUM EPL",epl 6
+http://wagnet.club:25461/greg/greg/133
+#EXTINF:-1 tvg-id="" tvg-name="epl 7" tvg-logo="" group-title="UK PREMIUM EPL",epl 7
+http://wagnet.club:25461/greg/greg/134
+#EXTINF:-1 tvg-id="" tvg-name="epl 8" tvg-logo="" group-title="UK PREMIUM EPL",epl 8
+http://wagnet.club:25461/greg/greg/135
+#EXTINF:-1 tvg-id="" tvg-name="epl 9" tvg-logo="" group-title="UK PREMIUM EPL",epl 9
+http://wagnet.club:25461/greg/greg/136
+#EXTINF:-1 tvg-id="" tvg-name="epl 10" tvg-logo="" group-title="UK PREMIUM EPL",epl 10
+http://wagnet.club:25461/greg/greg/137
+#EXTINF:-1 tvg-id="" tvg-name="PPV 1" tvg-logo="" group-title="UK PPV/LIVE EVENTS",PPV 1
+http://wagnet.club:25461/greg/greg/175
+#EXTINF:-1 tvg-id="bbc1northernireland.uk" tvg-name="BBC1 NI" tvg-logo="http://targetcreates.com/reloaded-logos/BBC1%20N%20Ireland.png" group-title="Irish/Nireland",BBC1 NI
+http://wagnet.club:25461/greg/greg/181
+#EXTINF:-1 tvg-id="bbc2northernireland.uk" tvg-name="BBC2 NI" tvg-logo="http://targetcreates.com/reloaded-logos/BBC2.png" group-title="Irish/Nireland",BBC2 NI
+http://wagnet.club:25461/greg/greg/182
+#EXTINF:-1 tvg-id="" tvg-name="UTV FHD" tvg-logo="http://targetcreates.com/reloaded-logos/UTV.png" group-title="Irish/Nireland",UTV FHD
+http://wagnet.club:25461/greg/greg/43
+#EXTINF:-1 tvg-id="" tvg-name="RTE 1" tvg-logo="http://targetcreates.com/reloaded-logos/RTE%20One.png" group-title="Irish/Nireland",RTE 1
+http://wagnet.club:25461/greg/greg/172
+#EXTINF:-1 tvg-id="" tvg-name="RTE 2" tvg-logo="http://targetcreates.com/reloaded-logos/RTE%20Two.png" group-title="Irish/Nireland",RTE 2
+http://wagnet.club:25461/greg/greg/173
+#EXTINF:-1 tvg-id="" tvg-name="RTE News Now" tvg-logo="http://targetcreates.com/reloaded-logos/RTE%20News%20Now.png" group-title="Irish/Nireland",RTE News Now
+http://wagnet.club:25461/greg/greg/188
+#EXTINF:-1 tvg-id="" tvg-name="TG4" tvg-logo="http://targetcreates.com/reloaded-logos/TG4.png" group-title="Irish/Nireland",TG4
+http://wagnet.club:25461/greg/greg/187
+#EXTINF:-1 tvg-id="" tvg-name="S4C" tvg-logo="http://smart-house.tn/logo.smart-house.tn/logo/ss/s4c_uk.png" group-title="Irish/Nireland",S4C
+http://wagnet.club:25461/greg/greg/186
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="BEIN 1" tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="UK Bein Sports",BEIN 1
+http://wagnet.club:25461/greg/greg/138
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 2" tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="UK Bein Sports",BEIN 2
+http://wagnet.club:25461/greg/greg/139
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 3" tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="UK Bein Sports",BEIN 3
+http://wagnet.club:25461/greg/greg/140
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 4" tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="UK Bein Sports",BEIN 4
+http://wagnet.club:25461/greg/greg/141
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 5" tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="UK Bein Sports",BEIN 5
+http://wagnet.club:25461/greg/greg/142
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 6" tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="UK Bein Sports",BEIN 6
+http://wagnet.club:25461/greg/greg/143
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 7" tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="UK Bein Sports",BEIN 7
+http://wagnet.club:25461/greg/greg/144
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 8" tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="UK Bein Sports",BEIN 8
+http://wagnet.club:25461/greg/greg/145
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 9" tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="UK Bein Sports",BEIN 9
+http://wagnet.club:25461/greg/greg/146
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 10" tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="UK Bein Sports",BEIN 10
+http://wagnet.club:25461/greg/greg/147
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 11" tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="UK Bein Sports",BEIN 11
+http://wagnet.club:25461/greg/greg/148
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 12" tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="UK Bein Sports",BEIN 12
+http://wagnet.club:25461/greg/greg/149
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 13" tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="UK Bein Sports",BEIN 13
+http://wagnet.club:25461/greg/greg/150
+#EXTINF:-1 tvg-id="" tvg-name="Milf" tvg-logo="" group-title="Spank Bank",Milf
+http://wagnet.club:25461/greg/greg/152
+#EXTINF:-1 tvg-id="" tvg-name="Redlight HD" tvg-logo="" group-title="Spank Bank",Redlight HD
+http://wagnet.club:25461/greg/greg/153
+#EXTINF:-1 tvg-id="" tvg-name="Teen" tvg-logo="" group-title="Spank Bank",Teen
+http://wagnet.club:25461/greg/greg/154
+#EXTINF:-1 tvg-id="" tvg-name="FANNY" tvg-logo="" group-title="Spank Bank",FANNY
+http://wagnet.club:25461/greg/greg/155
+#EXTINF:-1 tvg-id="" tvg-name="Gangbang" tvg-logo="" group-title="Spank Bank",Gangbang
+http://wagnet.club:25461/greg/greg/156
+#EXTINF:-1 tvg-id="" tvg-name="Dorcel Tv" tvg-logo="" group-title="Spank Bank",Dorcel Tv
+http://wagnet.club:25461/greg/greg/157
+#EXTINF:-1 tvg-id="" tvg-name="Fetish" tvg-logo="" group-title="Spank Bank",Fetish
+http://wagnet.club:25461/greg/greg/158
+#EXTINF:-1 tvg-id="" tvg-name="Blowjob" tvg-logo="" group-title="Spank Bank",Blowjob
+http://wagnet.club:25461/greg/greg/159
+#EXTINF:-1 tvg-id="" tvg-name="Hustler HD" tvg-logo="" group-title="Spank Bank",Hustler HD
+http://wagnet.club:25461/greg/greg/160
+#EXTINF:-1 tvg-id="" tvg-name="Pink Erotic" tvg-logo="" group-title="Spank Bank",Pink Erotic
+http://wagnet.club:25461/greg/greg/161
+#EXTINF:-1 tvg-id="" tvg-name="Meiden Van Holland Hard" tvg-logo="" group-title="Spank Bank",Meiden Van Holland Hard
+http://wagnet.club:25461/greg/greg/151
+#EXTINF:-1 tvg-id="mutv.uk" tvg-name="MUTV" tvg-logo="http://targetcreates.com/reloaded-logos/MUTV.png" group-title="Club football",MUTV
+http://wagnet.club:25461/greg/greg/169
+#EXTINF:-1 tvg-id="" tvg-name="CELTIC FC" tvg-logo="" group-title="Club football",CELTIC FC
+http://wagnet.club:25461/greg/greg/170
+#EXTINF:-1 tvg-id="" tvg-name="RANGERS FC" tvg-logo="" group-title="Club football",RANGERS FC
+http://wagnet.club:25461/greg/greg/171
+#EXTINF:-1 tvg-id="" tvg-name="El Camino A Breaking Bad Movie (2019)" tvg-logo="" group-title="2019 Movies",El Camino A Breaking Bad Movie (2019)
+http://wagnet.club:25461/movie/greg/greg/333.mp4
+#EXTINF:-1 tvg-id="" tvg-name="47 Meters Down Uncaged (2019)" tvg-logo="" group-title="2019 Movies",47 Meters Down Uncaged (2019)
+http://wagnet.club:25461/movie/greg/greg/334.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rush Hour" tvg-logo="" group-title="2019 Movies",Rush Hour
+http://wagnet.club:25461/movie/greg/greg/335.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rush Hour 2" tvg-logo="" group-title="2019 Movies",Rush Hour 2
+http://wagnet.club:25461/movie/greg/greg/336.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rush hour 3" tvg-logo="" group-title="2019 Movies",Rush hour 3
+http://wagnet.club:25461/movie/greg/greg/337.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American pie" tvg-logo="" group-title="2019 Movies",American pie
+http://wagnet.club:25461/movie/greg/greg/338.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Pie 2" tvg-logo="" group-title="2019 Movies",American Pie 2
+http://wagnet.club:25461/movie/greg/greg/339.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A dogs way home" tvg-logo="http://ftp.alphamediazone.com/Movies/Hollywood/2019/A%20Dog%27s%20Way%20Home%20%282019%29/A.Dog%27s.Way.Home.2019.1080p.BluRay.DTS.x264-MTeam.srt" group-title="2019 Movies",A dogs way home
+http://wagnet.club:25461/movie/greg/greg/340.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Abused by my girlfriend" tvg-logo="http://ftp.alphamediazone.com/Movies/Hollywood/2019/A%20Dog%27s%20Way%20Home%20%282019%29/A.Dog%27s.Way.Home.2019.1080p.BluRay.DTS.x264-MTeam.srt" group-title="2019 Movies",Abused by my girlfriend
+http://wagnet.club:25461/movie/greg/greg/341.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Against the clock" tvg-logo="http://ftp.alphamediazone.com/Movies/Hollywood/2019/A%20Dog%27s%20Way%20Home%20%282019%29/A.Dog%27s.Way.Home.2019.1080p.BluRay.DTS.x264-MTeam.srt" group-title="2019 Movies",Against the clock
+http://wagnet.club:25461/movie/greg/greg/342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adventures of Aladdin 2019" tvg-logo="http://ftp.alphamediazone.com/Movies/Hollywood/2019/A%20Dog%27s%20Way%20Home%20%282019%29/A.Dog%27s.Way.Home.2019.1080p.BluRay.DTS.x264-MTeam.srt" group-title="2019 Movies",Adventures of Aladdin 2019
+http://wagnet.club:25461/movie/greg/greg/343.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Hangout" tvg-logo="http://ftp.alphamediazone.com/Movies/Hollywood/2019/A%20Dog%27s%20Way%20Home%20%282019%29/A.Dog%27s.Way.Home.2019.1080p.BluRay.DTS.x264-MTeam.srt" group-title="2019 Movies",American Hangout
+http://wagnet.club:25461/movie/greg/greg/344.mkv
+#EXTINF:-1 tvg-id="" tvg-name="An affair to die for" tvg-logo="http://wagnet.club:25461/images/65huwHiGzHsbnLbML6GgrkSSWT1mv4jL.jpg" group-title="2019 Movies",An affair to die for
+http://wagnet.club:25461/movie/greg/greg/345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avengement" tvg-logo="http://wagnet.club:25461/images/65huwHiGzHsbnLbML6GgrkSSWT1mv4jL.jpg" group-title="2019 Movies",Avengement
+http://wagnet.club:25461/movie/greg/greg/346.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avengers endgame" tvg-logo="http://ftp.alphamediazone.com/Movies/Hollywood/2019/Avengers%3A%20Endgame%20%282019%29/Avengers.Endgame.2019.1080p.WEB-DL.AC3.H264-EVO.srt" group-title="2019 Movies",Avengers endgame
+http://wagnet.club:25461/movie/greg/greg/347.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Berlin i love you " tvg-logo="http://wagnet.club:25461/images/76m9SdiEgF88WGYbX39SuxLZ1Z50VnFH.jpg" group-title="2019 Movies",Berlin i love you 
+http://wagnet.club:25461/movie/greg/greg/348.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Best friends betrayal" tvg-logo="http://wagnet.club:25461/images/76m9SdiEgF88WGYbX39SuxLZ1Z50VnFH.jpg" group-title="2019 Movies",Best friends betrayal
+http://wagnet.club:25461/movie/greg/greg/349.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blood hound" tvg-logo="http://wagnet.club:25461/images/76m9SdiEgF88WGYbX39SuxLZ1Z50VnFH.jpg" group-title="2019 Movies",Blood hound
+http://wagnet.club:25461/movie/greg/greg/350.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bumblebee" tvg-logo="http://wagnet.club:25461/images/76m9SdiEgF88WGYbX39SuxLZ1Z50VnFH.jpg" group-title="2019 Movies",Bumblebee
+http://wagnet.club:25461/movie/greg/greg/351.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Captain Marvel" tvg-logo="http://wagnet.club:25461/images/76m9SdiEgF88WGYbX39SuxLZ1Z50VnFH.jpg" group-title="2019 Movies",Captain Marvel
+http://wagnet.club:25461/movie/greg/greg/352.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crossbreed" tvg-logo="http://wagnet.club:25461/images/nrtnkkQ1luYDoG7ChSiedSGYUYR4u1Ur.jpg" group-title="2019 Movies",Crossbreed
+http://wagnet.club:25461/movie/greg/greg/355.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crucible of the vampire" tvg-logo="http://wagnet.club:25461/images/KAhnSnPKau4yomSPIBBqzAdMOwpp2isy.jpg" group-title="2019 Movies",Crucible of the vampire
+http://wagnet.club:25461/movie/greg/greg/356.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doom Room" tvg-logo="http://wagnet.club:25461/images/to8nbseWSdrk4pQxLu9s4CVyGdiO5hft.jpg" group-title="2019 Movies",Doom Room
+http://wagnet.club:25461/movie/greg/greg/358.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dora and the last city of gold" tvg-logo="http://wagnet.club:25461/images/to8nbseWSdrk4pQxLu9s4CVyGdiO5hft.jpg" group-title="2019 Movies",Dora and the last city of gold
+http://wagnet.club:25461/movie/greg/greg/359.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dumbo" tvg-logo="http://wagnet.club:25461/images/to8nbseWSdrk4pQxLu9s4CVyGdiO5hft.jpg" group-title="2019 Movies",Dumbo
+http://wagnet.club:25461/movie/greg/greg/360.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Escape room" tvg-logo="http://wagnet.club:25461/images/to8nbseWSdrk4pQxLu9s4CVyGdiO5hft.jpg" group-title="2019 Movies",Escape room
+http://wagnet.club:25461/movie/greg/greg/361.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Extracurricular Activities" tvg-logo="http://wagnet.club:25461/images/ZPjy9puyCij5qYKchD3PE84HbfDPOy78.jpg" group-title="2019 Movies",Extracurricular Activities
+http://wagnet.club:25461/movie/greg/greg/362.mp4
+#EXTINF:-1 tvg-id="" tvg-name="fast and Furious Prestents Hobbs and Shaw" tvg-logo="http://wagnet.club:25461/images/ZPjy9puyCij5qYKchD3PE84HbfDPOy78.jpg" group-title="2019 Movies",fast and Furious Prestents Hobbs and Shaw
+http://wagnet.club:25461/movie/greg/greg/363.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Foriegn Exchange" tvg-logo="http://wagnet.club:25461/images/Sdq6lEsWqdHDYiA5vLLngGDM01E5PklC.jpg" group-title="2019 Movies",Foriegn Exchange
+http://wagnet.club:25461/movie/greg/greg/364.mp4
+#EXTINF:-1 tvg-id="" tvg-name="fyre fraud" tvg-logo="http://wagnet.club:25461/images/PEBe2nBLWMp9KlOl5AlPPbHn8wYPZO1e.jpg" group-title="2019 Movies",fyre fraud
+http://wagnet.club:25461/movie/greg/greg/365.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Glass" tvg-logo="https://www.bing.com/images/search?view=detailV2&ccid=c7c89KXU&id=F5F7320264BCD812867F2F3EB512C0256BA57689&thid=OIP.c7c89KXUEh3O6aRgRRlTRwHaFo&mediaurl=https%3a%2f%2fmoviereviewmom.com%2fwp-content%2fuploads%2f2019%2f01%2fGlass-movie-poster.jpeg&exph=487&expw=640&q=glass+movie+image&simid=608000130899578069&selectedIndex=2" group-title="2019 Movies",Glass
+http://wagnet.club:25461/movie/greg/greg/366.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HELLBOY" tvg-logo="data:image/jpeg;base64,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" group-title="2019 Movies",HELLBOY
+http://wagnet.club:25461/movie/greg/greg/368.mkv
+#EXTINF:-1 tvg-id="" tvg-name="HIGH FLYING BIRD" tvg-logo="http://wagnet.club:25461/images/RkmK19mtJcjEO0KwxtfyszXssiu4zdcS.jpg" group-title="2019 Movies",HIGH FLYING BIRD
+http://wagnet.club:25461/movie/greg/greg/369.mp4
+#EXTINF:-1 tvg-id="" tvg-name="i hate kids" tvg-logo="http://wagnet.club:25461/images/fvdyekgPy1Dvsp4yRgUfpbsAh8aBYYXf.jpg" group-title="2019 Movies",i hate kids
+http://wagnet.club:25461/movie/greg/greg/371.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IO" tvg-logo="http://wagnet.club:25461/images/KerFbbq1GQcqr6IFQW8c9pxKcwSdJUfd.jpg" group-title="2019 Movies",IO
+http://wagnet.club:25461/movie/greg/greg/372.mp4
+#EXTINF:-1 tvg-id="" tvg-name="kevin hart's guide to black history" tvg-logo="http://wagnet.club:25461/images/YPuJXgvNHON79dpFpnwwTO2qAlCIFAOj.jpg" group-title="2019 Movies",kevin hart's guide to black history
+http://wagnet.club:25461/movie/greg/greg/374.mp4
+#EXTINF:-1 tvg-id="" tvg-name="killers within" tvg-logo="http://wagnet.club:25461/images/UMdVxij5ikCNcLevEvm8pO35TQhoPzDH.jpg" group-title="2019 Movies",killers within
+http://wagnet.club:25461/movie/greg/greg/375.mkv
+#EXTINF:-1 tvg-id="" tvg-name="kim possible" tvg-logo="http://wagnet.club:25461/images/bCOLfcvpAu50mpFSnvRIi9fqCUDlqjte.jpg" group-title="2019 Movies",kim possible
+http://wagnet.club:25461/movie/greg/greg/376.mp4
+#EXTINF:-1 tvg-id="" tvg-name="king of crime" tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BYTA3ZGNiZDMtZTExZS00Yjc0LTkyOGMtYjFjMDI4MzhkYWQ0XkEyXkFqcGdeQXVyNjc1NjU0MDQ%40._V1_.jpg&imgrefurl=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt5803438%2F&docid=oJEf5rv6gT-EsM&tbnid=QI6yDiwVu7JkJM%3A&vet=10ahUKEwitva_OkNblAhUnQxUIHTP5A_gQMwhHKAEwAQ..i&w=1728&h=2592&bih=561&biw=1280&q=king%20of%20crime&ved=0ahUKEwitva_OkNblAhUnQxUIHTP5A_gQMwhHKAEwAQ&iact=mrc&uact=8" group-title="2019 Movies",king of crime
+http://wagnet.club:25461/movie/greg/greg/377.mkv
+#EXTINF:-1 tvg-id="" tvg-name="last glimpse" tvg-logo="http://wagnet.club:25461/images/1DWEAzNxafAGa21QOgo9FJJ3sQ2UwEZJ.jpg" group-title="2019 Movies",last glimpse
+http://wagnet.club:25461/movie/greg/greg/378.mp4
+#EXTINF:-1 tvg-id="" tvg-name="loophole" tvg-logo="http://wagnet.club:25461/images/ZuBgUNnBU4Wy1vORJzQyA8rRwDRNDbnq.jpg" group-title="2019 Movies",loophole
+http://wagnet.club:25461/movie/greg/greg/379.mp4
+#EXTINF:-1 tvg-id="" tvg-name="love you to death" tvg-logo="http://wagnet.club:25461/images/uMgFrzovWMCAHYNlVSLholgs697lFTcV.jpg" group-title="2019 Movies",love you to death
+http://wagnet.club:25461/movie/greg/greg/380.mp4
+#EXTINF:-1 tvg-id="" tvg-name="men in black international " tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FI%2F81JkpTGYS2L._RI_.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.com%2FMen-Black-International-Chris-Hemsworth%2Fdp%2FB07SZ4CTN2&docid=n3WKo4FghKARFM&tbnid=PS6COhHnRY3qfM%3A&vet=10ahUKEwjrx439kdblAhX9UBUIHWpDBV0QMwhSKAEwAQ..i&w=1920&h=2560&bih=561&biw=1280&q=men%20in%20black%20international&ved=0ahUKEwjrx439kdblAhX9UBUIHWpDBV0QMwhSKAEwAQ&iact=mrc&uact=8" group-title="2019 Movies",men in black international 
+http://wagnet.club:25461/movie/greg/greg/381.mkv
+#EXTINF:-1 tvg-id="" tvg-name="mystery 101" tvg-logo="http://wagnet.club:25461/images/bw0uPP7sbcan0FuoAcLSZuSze7wMqpYB.jpg" group-title="2019 Movies",mystery 101
+http://wagnet.club:25461/movie/greg/greg/382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1 1" tvg-logo="http://wagnet.club:25461/images/DCzMsjbDcpUu0z5iUwvAmZMxxnt9vSwj.jpg" group-title="2019 Movies",1 1
+http://wagnet.club:25461/movie/greg/greg/384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="6 balloons" tvg-logo="http://wagnet.club:25461/images/6AgshTEDQDMdtBDzlnICd6joby5hpwyi.jpg" group-title="2019 Movies",6 balloons
+http://wagnet.club:25461/movie/greg/greg/388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="7 splinters in time" tvg-logo="http://wagnet.club:25461/images/4mKckRL8LaKAHPyQ6U82I2200smNU5kb.jpg" group-title="2019 Movies",7 splinters in time
+http://wagnet.club:25461/movie/greg/greg/391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1 buck " tvg-logo="http://wagnet.club:25461/images/7jzzxIQnfEk2uoAyNnYYoESaJTmrb50T.jpg" group-title="2019 Movies",1 buck 
+http://wagnet.club:25461/movie/greg/greg/392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Char man" tvg-logo="http://wagnet.club:25461/images/lpShopWGfBEshUjdOlIKbbT8NrKNrlhw.jpg" group-title="2019 Movies",Char man
+http://wagnet.club:25461/movie/greg/greg/353.mp4
+#EXTINF:-1 tvg-id="" tvg-name="City of lies" tvg-logo="http://wagnet.club:25461/images/JczcXQGqJBQ1ty2QjEB0tEGJ6NKHcZn8.jpg" group-title="2019 Movies",City of lies
+http://wagnet.club:25461/movie/greg/greg/354.mp4
+#EXTINF:-1 tvg-id="" tvg-name="dark phoenix" tvg-logo="http://wagnet.club:25461/images/JczcXQGqJBQ1ty2QjEB0tEGJ6NKHcZn8.jpg" group-title="2019 Movies",dark phoenix
+http://wagnet.club:25461/movie/greg/greg/357.mkv
+#EXTINF:-1 tvg-id="" tvg-name="john wick 3" tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FI%2F91wc7yc2R8L._SL1500_.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.co.uk%2FJohn-Wick-Chapter-Parabellum-DVD%2Fdp%2FB07RMZMZ8Z&docid=SIE92VtDSS9mNM&tbnid=JbDybN6pAY0J-M%3A&vet=10ahUKEwj6op-Ij9blAhWluXEKHd6rB1MQMwhrKAEwAQ..i&w=1072&h=1500&bih=561&biw=1280&q=john%20wick%203&ved=0ahUKEwj6op-Ij9blAhWluXEKHd6rB1MQMwhrKAEwAQ&iact=mrc&uact=8" group-title="2019 Movies",john wick 3
+http://wagnet.club:25461/movie/greg/greg/373.mkv
+#EXTINF:-1 tvg-id="" tvg-name="2.22" tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FI%2F91wc7yc2R8L._SL1500_.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.co.uk%2FJohn-Wick-Chapter-Parabellum-DVD%2Fdp%2FB07RMZMZ8Z&docid=SIE92VtDSS9mNM&tbnid=JbDybN6pAY0J-M%3A&vet=10ahUKEwj6op-Ij9blAhWluXEKHd6rB1MQMwhrKAEwAQ..i&w=1072&h=1500&bih=561&biw=1280&q=john%20wick%203&ved=0ahUKEwj6op-Ij9blAhWluXEKHd6rB1MQMwhrKAEwAQ&iact=mrc&uact=8" group-title="2019 Movies",2.22
+http://wagnet.club:25461/movie/greg/greg/393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="3 things" tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FI%2F91wc7yc2R8L._SL1500_.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.co.uk%2FJohn-Wick-Chapter-Parabellum-DVD%2Fdp%2FB07RMZMZ8Z&docid=SIE92VtDSS9mNM&tbnid=JbDybN6pAY0J-M%3A&vet=10ahUKEwj6op-Ij9blAhWluXEKHd6rB1MQMwhrKAEwAQ..i&w=1072&h=1500&bih=561&biw=1280&q=john%20wick%203&ved=0ahUKEwj6op-Ij9blAhWluXEKHd6rB1MQMwhrKAEwAQ&iact=mrc&uact=8" group-title="2019 Movies",3 things
+http://wagnet.club:25461/movie/greg/greg/394.mkv
+#EXTINF:-1 tvg-id="" tvg-name="6 below miricle on the mountain" tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FI%2F91wc7yc2R8L._SL1500_.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.co.uk%2FJohn-Wick-Chapter-Parabellum-DVD%2Fdp%2FB07RMZMZ8Z&docid=SIE92VtDSS9mNM&tbnid=JbDybN6pAY0J-M%3A&vet=10ahUKEwj6op-Ij9blAhWluXEKHd6rB1MQMwhrKAEwAQ..i&w=1072&h=1500&bih=561&biw=1280&q=john%20wick%203&ved=0ahUKEwj6op-Ij9blAhWluXEKHd6rB1MQMwhrKAEwAQ&iact=mrc&uact=8" group-title="2019 Movies",6 below miricle on the mountain
+http://wagnet.club:25461/movie/greg/greg/395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="7 witches" tvg-logo="http://wagnet.club:25461/images/RVjO16RYR43szgjc1UjlUah9D1czxtnS.jpg" group-title="2019 Movies",7 witches
+http://wagnet.club:25461/movie/greg/greg/397.mkv
+#EXTINF:-1 tvg-id="" tvg-name="6 days" tvg-logo="http://wagnet.club:25461/images/f1jGJ2xw0tem7ix15Snuk7V2Cw7dyoWA.jpg" group-title="2019 Movies",6 days
+http://wagnet.club:25461/movie/greg/greg/396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9 fingers" tvg-logo="http://wagnet.club:25461/images/OEY8sRYQciYsLoD2ONXIfABRY8eCbf33.jpg" group-title="2019 Movies",9 fingers
+http://wagnet.club:25461/movie/greg/greg/399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="12 days of giving" tvg-logo="http://wagnet.club:25461/images/2WaOgHxnUTY2jdF8qwNgNTZulNfvS27Z.jpg" group-title="2019 Movies",12 days of giving
+http://wagnet.club:25461/movie/greg/greg/400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="12 eiund gun" tvg-logo="http://wagnet.club:25461/images/u37WmvTyrLDVjytagc9duzJvDsUftXwV.jpg" group-title="2019 Movies",12 eiund gun
+http://wagnet.club:25461/movie/greg/greg/401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Snatch" tvg-logo="http://wagnet.club:25461/images/zRvzxttN1LaBN0FNr4rPhQYmLeuDFTCC.jpg" group-title="2019 Movies",Snatch
+http://wagnet.club:25461/movie/greg/greg/402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman Gotham by Gaslight" tvg-logo="https://www.imdb.com/title/tt7167630/mediaviewer/rm2566020352" group-title="Kids",Batman Gotham by Gaslight
+http://wagnet.club:25461/movie/greg/greg/403.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lego DC Comics" tvg-logo="https://www.imdb.com/title/tt7167630/mediaviewer/rm2566020352" group-title="Kids",Lego DC Comics
+http://wagnet.club:25461/movie/greg/greg/405.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peter Rabbit" tvg-logo="https://www.imdb.com/title/tt7167630/mediaviewer/rm2566020352" group-title="Kids",Peter Rabbit
+http://wagnet.club:25461/movie/greg/greg/406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ralph Breaks Internet" tvg-logo="https://www.imdb.com/title/tt7167630/mediaviewer/rm2566020352" group-title="Kids",Ralph Breaks Internet
+http://wagnet.club:25461/movie/greg/greg/407.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shelock Gnomes" tvg-logo="https://www.imdb.com/title/tt7167630/mediaviewer/rm2566020352" group-title="Kids",Shelock Gnomes
+http://wagnet.club:25461/movie/greg/greg/409.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Suicide Squad Hell to Pay" tvg-logo="https://www.imdb.com/title/tt7167630/mediaviewer/rm2566020352" group-title="Kids",Suicide Squad Hell to Pay
+http://wagnet.club:25461/movie/greg/greg/410.mkv
+#EXTINF:-1 tvg-id="" tvg-name="How to train your dragon: the hidden world" tvg-logo="https://www.imdb.com/title/tt7167630/mediaviewer/rm2566020352" group-title="Kids",How to train your dragon: the hidden world
+http://wagnet.club:25461/movie/greg/greg/411.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Secret Life of pets 2" tvg-logo="https://www.imdb.com/title/tt7167630/mediaviewer/rm2566020352" group-title="Kids",Secret Life of pets 2
+http://wagnet.club:25461/movie/greg/greg/412.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Emoji Movie" tvg-logo="https://www.imdb.com/title/tt7167630/mediaviewer/rm2566020352" group-title="Kids",The Emoji Movie
+http://wagnet.club:25461/movie/greg/greg/413.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Emoji Movie" tvg-logo="https://www.imdb.com/title/tt7167630/mediaviewer/rm2566020352" group-title="Kids",The Emoji Movie
+http://wagnet.club:25461/movie/greg/greg/414.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Captain Underpants: The first epic movie" tvg-logo="https://www.imdb.com/title/tt7167630/mediaviewer/rm2566020352" group-title="Kids",Captain Underpants: The first epic movie
+http://wagnet.club:25461/movie/greg/greg/415.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Teen Titans The Judas Contract" tvg-logo="https://www.imdb.com/title/tt7167630/mediaviewer/rm2566020352" group-title="Kids",Teen Titans The Judas Contract
+http://wagnet.club:25461/movie/greg/greg/416.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boss Baby" tvg-logo="https://www.imdb.com/title/tt3874544/mediaviewer/rm1201810944" group-title="Kids",The Boss Baby
+http://wagnet.club:25461/movie/greg/greg/417.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rock Dog" tvg-logo="https://www.imdb.com/title/tt3874544/mediaviewer/rm1201810944" group-title="Kids",Rock Dog
+http://wagnet.club:25461/movie/greg/greg/418.avi
+#EXTINF:-1 tvg-id="" tvg-name="Scooby-doo & Batman the brave and bold" tvg-logo="https://www.imdb.com/title/tt3874544/mediaviewer/rm1201810944" group-title="Kids",Scooby-doo & Batman the brave and bold
+http://wagnet.club:25461/movie/greg/greg/408.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Monster Family" tvg-logo="https://www.imdb.com/title/tt3874544/mediaviewer/rm1201810944" group-title="Kids",Monster Family
+http://wagnet.club:25461/movie/greg/greg/420.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smurfs: The Lost Village" tvg-logo="https://www.imdb.com/title/tt3874544/mediaviewer/rm1201810944" group-title="Kids",Smurfs: The Lost Village
+http://wagnet.club:25461/movie/greg/greg/422.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Finding Dory" tvg-logo="https://www.imdb.com/title/tt3874544/mediaviewer/rm1201810944" group-title="Kids",Finding Dory
+http://wagnet.club:25461/movie/greg/greg/423.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Shawshank Redemption" tvg-logo="http://wagnet.club:25461/images/BF81FtVdFy3Eg4HpB8KWqRapojFsmpSc.jpg" group-title="2019 Movies",The Shawshank Redemption
+http://wagnet.club:25461/movie/greg/greg/424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Godfather (1972)" tvg-logo="http://wagnet.club:25461/images/koQnA397q2QXe0ksFLtrxiJ3VLqjp290.jpg" group-title="2019 Movies",The Godfather (1972)
+http://wagnet.club:25461/movie/greg/greg/425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Godfather 2" tvg-logo="http://wagnet.club:25461/images/XRk729QzN94vXw3KH1IankPaYLx43Yzj.jpg" group-title="2019 Movies",Godfather 2
+http://wagnet.club:25461/movie/greg/greg/426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Dark Knight 2008" tvg-logo="http://wagnet.club:25461/images/dKPdm3tuEL5DSmHhwWkPsT6evzVno8GD.jpg" group-title="2019 Movies",The Dark Knight 2008
+http://wagnet.club:25461/movie/greg/greg/427.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pulp Fiction 1994" tvg-logo="http://wagnet.club:25461/images/J3w6XguQJ2WHyVa1enaUH2cQCUlvVcs7.jpg" group-title="2019 Movies",Pulp Fiction 1994
+http://wagnet.club:25461/movie/greg/greg/428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="12 Angry Men 1957" tvg-logo="http://wagnet.club:25461/images/96a8MfDjpbyeJXYbfjQpIB7jDLhsDPao.jpg" group-title="2019 Movies",12 Angry Men 1957
+http://wagnet.club:25461/movie/greg/greg/429.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Schindlers List 1993" tvg-logo="http://wagnet.club:25461/images/3fnTPhp5sn2y6WetK0JNbacSMNCPknen.jpg" group-title="2019 Movies",Schindlers List 1993
+http://wagnet.club:25461/movie/greg/greg/430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Good the Bad and the Ugly 1966" tvg-logo="http://wagnet.club:25461/images/SQKB74sfULAVq18Qw9mUSK1n9ATzNc5c.jpg" group-title="2019 Movies",The Good the Bad and the Ugly 1966
+http://wagnet.club:25461/movie/greg/greg/431.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lord Of The Rings 2003" tvg-logo="http://wagnet.club:25461/images/xOcSg0TjuPwv08y28qPxkK1L1HQsdeTT.jpg" group-title="2019 Movies",Lord Of The Rings 2003
+http://wagnet.club:25461/movie/greg/greg/432.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fight Club" tvg-logo="http://wagnet.club:25461/images/Dk4TjCx4HmuCnY10m0IJB5nz685mOkMP.jpg" group-title="2019 Movies",Fight Club
+http://wagnet.club:25461/movie/greg/greg/433.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lord Of The Rings The Fellowship of the ring 2001" tvg-logo="http://wagnet.club:25461/images/rihxhqVskltVwzNPaLn2EFPiCC9nUV7u.jpg" group-title="2019 Movies",Lord Of The Rings The Fellowship of the ring 2001
+http://wagnet.club:25461/movie/greg/greg/434.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Flew Over Cukoos Nest 1975" tvg-logo="http://wagnet.club:25461/images/DoIKsdXjMOTGC7KNmrPUTqduXGOILsWZ.jpg" group-title="2019 Movies",One Flew Over Cukoos Nest 1975
+http://wagnet.club:25461/movie/greg/greg/437.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lord Of The Rings The Two Towers 2002" tvg-logo="http://wagnet.club:25461/images/wIWXNOLmwl7W1Z3ibJdX9PBaaBmdtREY.jpg" group-title="2019 Movies",Lord Of The Rings The Two Towers 2002
+http://wagnet.club:25461/movie/greg/greg/438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Goodfellas 1990" tvg-logo="http://wagnet.club:25461/images/zZNPCFkam4DEP0qbTZOZlk8heaBLnfca.jpg" group-title="2019 Movies",Goodfellas 1990
+http://wagnet.club:25461/movie/greg/greg/439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Matrix 1999" tvg-logo="http://wagnet.club:25461/images/ntuUEibuHFmj2Fj4adlVwYCI2TVvfUs2.jpg" group-title="2019 Movies",The Matrix 1999
+http://wagnet.club:25461/movie/greg/greg/440.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Seven Samurai" tvg-logo="http://wagnet.club:25461/images/3QQ3WC2fbI4u3d4qXUJtcFCOo5zGnM6i.jpg" group-title="2019 Movies",Seven Samurai
+http://wagnet.club:25461/movie/greg/greg/441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Interstellar 2014" tvg-logo="http://wagnet.club:25461/images/rbbrcbXPr8sIKJHiheCxX4l9A0a5u7PN.jpg" group-title="2019 Movies",Interstellar 2014
+http://wagnet.club:25461/movie/greg/greg/442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="City Of God" tvg-logo="http://wagnet.club:25461/images/Og8U6BVedBpi9BAsXUStip375toXqxLu.jpg" group-title="2019 Movies",City Of God
+http://wagnet.club:25461/movie/greg/greg/443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Forest Gump 1994" tvg-logo="http://wagnet.club:25461/images/xmbMjX26DhRWxoM5WGsTVUATHImm32XL.jpg" group-title="2019 Movies",Forest Gump 1994
+http://wagnet.club:25461/movie/greg/greg/436.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Star wars Episode v The Empire Strikes Back 1980" tvg-logo="http://wagnet.club:25461/images/XHNpFWAWiTtn7woFQkOzUELTxEszuOwq.jpg" group-title="2019 Movies",Star wars Episode v The Empire Strikes Back 1980
+http://wagnet.club:25461/movie/greg/greg/435.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Se7en 1995" tvg-logo="http://wagnet.club:25461/images/bn9OPpWQsDBhFkaG1y5nG7HmGMe6ezsG.jpg" group-title="2019 Movies",Se7en 1995
+http://wagnet.club:25461/movie/greg/greg/444.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Usual Suspects 1995" tvg-logo="http://wagnet.club:25461/images/kQ83RuPeu1WvEgNDf6DXoHfsvmgxNMHH.jpg" group-title="2019 Movies",The Usual Suspects 1995
+http://wagnet.club:25461/movie/greg/greg/445.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Silence Of The Lambs 1991" tvg-logo="http://wagnet.club:25461/images/sp8Shd8OIGx7zZclVtVEtTdj14BZdpvH.jpg" group-title="2019 Movies",The Silence Of The Lambs 1991
+http://wagnet.club:25461/movie/greg/greg/446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="22 july" tvg-logo="http://wagnet.club:25461/images/PprYwnuU6izqf14Xyxst6vGgdd4Jto6T.jpg" group-title="2019 Movies",22 july
+http://wagnet.club:25461/movie/greg/greg/448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="55 steps" tvg-logo="http://wagnet.club:25461/images/uKvLOtV3ntBpS3G3ptI2AzBN5HOsGDSi.jpg" group-title="2018 movies",55 steps
+http://wagnet.club:25461/movie/greg/greg/449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="211" tvg-logo="http://wagnet.club:25461/images/KNmUfbJjt9Gr8eQE5RNVi0T9NaWbVblp.jpg" group-title="2018 movies",211
+http://wagnet.club:25461/movie/greg/greg/450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2036 origin unknown" tvg-logo="http://wagnet.club:25461/images/KNmUfbJjt9Gr8eQE5RNVi0T9NaWbVblp.jpg" group-title="2018 movies",2036 origin unknown
+http://wagnet.club:25461/movie/greg/greg/451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="cargo" tvg-logo="http://wagnet.club:25461/images/ZCh4YfdLmtSAXuSNUkirdJUSuVXAV93E.jpg" group-title="2018 movies",cargo
+http://wagnet.club:25461/movie/greg/greg/452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="a boy,a girl,a dream" tvg-logo="http://wagnet.club:25461/images/mHSI0c5iK2G42XUrYU9cxaQSpARqyqgn.jpg" group-title="2018 movies",a boy,a girl,a dream
+http://wagnet.club:25461/movie/greg/greg/453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="a Christmas prince the royal wedding " tvg-logo="http://wagnet.club:25461/images/sAiF6fW7QtxkTaFcxao6lBYB4imBZ0dx.jpg" group-title="2018 movies",a Christmas prince the royal wedding 
+http://wagnet.club:25461/movie/greg/greg/454.mp4
+#EXTINF:-1 tvg-id="" tvg-name="a deadly view" tvg-logo="https://www.google.co.uk/imgres?imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BODE0MmJiOGYtOTljMi00YzFkLWE5NTItN2Y0NzlmMjYwZGE1XkEyXkFqcGdeQXVyNTM0MDc1ODE%40._V1_UX182_CR0%2C0%2C182%2C268_AL_.jpg&imgrefurl=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt6792478%2F&docid=Qr0soFfPI4gbWM&tbnid=BteswnUsJln4YM%3A&vet=10ahUKEwij7NGmk9nlAhWmUxUIHcddDacQMwhCKAAwAA..i&w=182&h=268&hl=en&bih=610&biw=1280&q=a%20deadly%20view%20(2018)&ved=0ahUKEwij7NGmk9nlAhWmUxUIHcddDacQMwhCKAAwAA&iact=mrc&uact=8" group-title="2018 movies",a deadly view
+http://wagnet.club:25461/movie/greg/greg/455.mkv
+#EXTINF:-1 tvg-id="" tvg-name="a fistful of lead" tvg-logo="http://wagnet.club:25461/images/Rl2TtLxQ4WEYdjSqY6tvJ4gCPadoyayA.jpg" group-title="2018 movies",a fistful of lead
+http://wagnet.club:25461/movie/greg/greg/456.mp4
+#EXTINF:-1 tvg-id="" tvg-name="a futile and stupid gesture" tvg-logo="http://wagnet.club:25461/images/O0TWiwKvE32w755KcHNIctgqBKfwDI9l.jpg" group-title="2018 movies",a futile and stupid gesture
+http://wagnet.club:25461/movie/greg/greg/457.mp4
+#EXTINF:-1 tvg-id="" tvg-name="a journey to the fumigated town" tvg-logo="http://wagnet.club:25461/images/f35zQNXAmHl0DQU34Nx2pLFWtXPlxV73.jpg" group-title="2018 movies",a journey to the fumigated town
+http://wagnet.club:25461/movie/greg/greg/458.mp4
+#EXTINF:-1 tvg-id="" tvg-name="a kid like jake " tvg-logo="http://wagnet.club:25461/images/ClEQOvz1gsfidjOaukKlDKsGdThu0B3m.jpg" group-title="2018 movies",a kid like jake 
+http://wagnet.club:25461/movie/greg/greg/459.mp4
+#EXTINF:-1 tvg-id="" tvg-name="a leaf of faith" tvg-logo="http://wagnet.club:25461/images/i711wPRm1WX22eWilfcR4qNA2z7OcG7J.jpg" group-title="2018 movies",a leaf of faith
+http://wagnet.club:25461/movie/greg/greg/460.mp4
+#EXTINF:-1 tvg-id="" tvg-name="a place in hell" tvg-logo="http://wagnet.club:25461/images/p2E9RxZIE39EPP0RHccUJl3g0i1NpHbR.jpg" group-title="2018 movies",a place in hell
+http://wagnet.club:25461/movie/greg/greg/461.mp4
+#EXTINF:-1 tvg-id="" tvg-name="a quiet place" tvg-logo="http://wagnet.club:25461/images/KW2u8sAN6dizHiTEIiHYjjLAWJ0g60qE.jpg" group-title="2018 movies",a quiet place
+http://wagnet.club:25461/movie/greg/greg/462.mp4
+#EXTINF:-1 tvg-id="" tvg-name="a raunchy Christmas story" tvg-logo="http://wagnet.club:25461/images/0YUwMKjIxS15rgYcXN0mT9oZvpkO4KjP.jpg" group-title="2018 movies",a raunchy Christmas story
+http://wagnet.club:25461/movie/greg/greg/463.mp4
+#EXTINF:-1 tvg-id="" tvg-name="15 minutes" tvg-logo="http://wagnet.club:25461/images/L4Y0rL332GcEUf0TRTqwdckt95rPFChB.jpg" group-title="2001",15 minutes
+http://wagnet.club:25461/movie/greg/greg/464.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Artificial Intelligence" tvg-logo="http://wagnet.club:25461/images/L4Y0rL332GcEUf0TRTqwdckt95rPFChB.jpg" group-title="2001",Artificial Intelligence
+http://wagnet.club:25461/movie/greg/greg/466.mp4
+#EXTINF:-1 tvg-id="" tvg-name="once upon a time in the west 1968" tvg-logo="http://wagnet.club:25461/images/2iVBpBJzxOUomkiB4zfmOEtp2AsmONDe.jpeg" group-title="2019 Movies",once upon a time in the west 1968
+http://wagnet.club:25461/movie/greg/greg/467.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ali" tvg-logo="http://wagnet.club:25461/images/c7G7eRoa07ZM7QuXBVHcEf8l0nUgUsDR.jpg" group-title="2001",Ali
+http://wagnet.club:25461/movie/greg/greg/468.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Leon- the professional 1994" tvg-logo="http://wagnet.club:25461/images/TJaDWkIw7E5KV8tMKCPIdSlSulZ8u9Fv.jpg" group-title="2019 Movies",Leon- the professional 1994
+http://wagnet.club:25461/movie/greg/greg/469.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Along came a spider" tvg-logo="http://wagnet.club:25461/images/TJaDWkIw7E5KV8tMKCPIdSlSulZ8u9Fv.jpg" group-title="2001",Along came a spider
+http://wagnet.club:25461/movie/greg/greg/470.mp4
+#EXTINF:-1 tvg-id="" tvg-name="life is beautiful 1997" tvg-logo="http://wagnet.club:25461/images/TB55R7nInyComdWjVtoy5YuX5R9pjQ3i.jpg" group-title="2019 Movies",life is beautiful 1997
+http://wagnet.club:25461/movie/greg/greg/471.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Casablanca 1942 " tvg-logo="http://wagnet.club:25461/images/A4m5B4LHmmWKhbhQprfkDH2GQiaTuzmY.jpg" group-title="2019 Movies",Casablanca 1942 
+http://wagnet.club:25461/movie/greg/greg/473.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Pie 2" tvg-logo="http://wagnet.club:25461/images/RKpZqvMJ3SOQSxmFZ5LXVDxEk9q7YtfJ.jpg" group-title="2001",American Pie 2
+http://wagnet.club:25461/movie/greg/greg/474.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Indiana Jones-  Raiders of the lost ark 1981" tvg-logo="http://wagnet.club:25461/images/HT4QxGK51xvbroAkdVumVsUVDCBxei23.jpg" group-title="2019 Movies",Indiana Jones-  Raiders of the lost ark 1981
+http://wagnet.club:25461/movie/greg/greg/476.mp4
+#EXTINF:-1 tvg-id="" tvg-name="saving private ryan 1998" tvg-logo="http://wagnet.club:25461/images/H8T67ovEmCF3R1CkqnndhWlzFVnIeFMM.jpg" group-title="2019 Movies",saving private ryan 1998
+http://wagnet.club:25461/movie/greg/greg/478.mp4
+#EXTINF:-1 tvg-id="" tvg-name="city lights 1931" tvg-logo="http://wagnet.club:25461/images/iqETAy94WVyzFMlvH4tVFA8YrtV7BT4W.jpg" group-title="2019 Movies",city lights 1931
+http://wagnet.club:25461/movie/greg/greg/479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="spirited away 2001" tvg-logo="http://wagnet.club:25461/images/F3l7odlH2iULsaRQT98HmHJi6SYPMKqB.jpg" group-title="2019 Movies",spirited away 2001
+http://wagnet.club:25461/movie/greg/greg/480.mkv
+#EXTINF:-1 tvg-id="" tvg-name="psycho 1960" tvg-logo="http://wagnet.club:25461/images/aLxyaakGMxMSaMpfsMPB8vZhhqMTAEgt.jpg" group-title="2019 Movies",psycho 1960
+http://wagnet.club:25461/movie/greg/greg/481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Charlie Chaplin" tvg-logo="http://wagnet.club:25461/images/641b8IwdOahBSEs3x4mB8gdVL38jYsE2.jpg" group-title="2019 Movies",Charlie Chaplin
+http://wagnet.club:25461/movie/greg/greg/482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="whiplash 2014" tvg-logo="http://wagnet.club:25461/images/6RNZZzSjNAKu3nKdUaxQcaIFQeibONKm.jpg" group-title="2019 Movies",whiplash 2014
+http://wagnet.club:25461/movie/greg/greg/483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="rear window 1954" tvg-logo="http://wagnet.club:25461/images/FZCiaun4Z7MDI6iB525xXpcEuQWzTr0y.jpg" group-title="2019 Movies",rear window 1954
+http://wagnet.club:25461/movie/greg/greg/484.mkv
+#EXTINF:-1 tvg-id="" tvg-name="the intouchables 2011" tvg-logo="https://www.google.co.uk/imgres?imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw%40%40._V1_.jpg&imgrefurl=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt1675434%2F&docid=JX-ixovxCdwElM&tbnid=0uTKX0C-vkDnRM%3A&vet=10ahUKEwipkJbHqtnlAhWiuXEKHQESAhgQMwhnKAAwAA..i&w=1382&h=2048&hl=en&bih=610&biw=1280&q=the%20intouchables%202011&ved=0ahUKEwipkJbHqtnlAhWiuXEKHQESAhgQMwhnKAAwAA&iact=mrc&uact=8" group-title="2019 Movies",the intouchables 2011
+http://wagnet.club:25461/movie/greg/greg/487.mkv
+#EXTINF:-1 tvg-id="" tvg-name="back to the future 1985" tvg-logo="http://wagnet.club:25461/images/kUZYwGRsCYwMrh8gMtuafBibSNGYwOkq.jpg" group-title="2019 Movies",back to the future 1985
+http://wagnet.club:25461/movie/greg/greg/491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="alien 1979" tvg-logo="http://wagnet.club:25461/images/uVA04S5TTHvhOI5NirTMXcGMJgaCCVuF.jpg" group-title="2019 Movies",alien 1979
+http://wagnet.club:25461/movie/greg/greg/493.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr.Strangelove" tvg-logo="http://wagnet.club:25461/images/MpjZcMR5ztLNwF1FqtXQ8DUmnNiNsPgY.jpg" group-title="2019 Movies",Dr.Strangelove
+http://wagnet.club:25461/movie/greg/greg/496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sunset Blvd" tvg-logo="http://wagnet.club:25461/images/7sRm5U7gxgDzZqGOUTZT02aIhVjp3dtM.jpg" group-title="2019 Movies",Sunset Blvd
+http://wagnet.club:25461/movie/greg/greg/495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="the prestige 2006" tvg-logo="http://wagnet.club:25461/images/WKGiHLmzr0f9wx9q9AP7Ta3pnP1Ma952.jpg" group-title="2019 Movies",the prestige 2006
+http://wagnet.club:25461/movie/greg/greg/497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="the great dictator 1940" tvg-logo="http://wagnet.club:25461/images/UzU3iZZBKhtOkJt4SwKBWU3wcTTotbrY.jpg" group-title="2019 Movies",the great dictator 1940
+http://wagnet.club:25461/movie/greg/greg/499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="the lion king 1994" tvg-logo="http://wagnet.club:25461/images/0eW0qz7gR2nlDo692j8wPSAnMjV1TcGK.jpg" group-title="2019 Movies",the lion king 1994
+http://wagnet.club:25461/movie/greg/greg/500.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WALL-E" tvg-logo="http://wagnet.club:25461/images/3nxWdrDFdmBOY3piqxJj18we83jPzRmu.jpg" group-title="2019 Movies",WALL-E
+http://wagnet.club:25461/movie/greg/greg/502.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Beauty" tvg-logo="http://wagnet.club:25461/images/2wtTwTh4dFhTQucR8VUlXik15GbtXlgT.jpg" group-title="2019 Movies",American Beauty
+http://wagnet.club:25461/movie/greg/greg/501.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paths of Glory" tvg-logo="http://wagnet.club:25461/images/U2mSVv7DXhk5Q0jx1sYt7EkahVYDWiEg.jpg" group-title="2019 Movies",Paths of Glory
+http://wagnet.club:25461/movie/greg/greg/498.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gladiator" tvg-logo="http://wagnet.club:25461/images/eMzYGHZ8Zl6l2Y19Tgq4C7PVYHrwUU01.jpg" group-title="2019 Movies",Gladiator
+http://wagnet.club:25461/movie/greg/greg/492.mkv
+#EXTINF:-1 tvg-id="" tvg-name="the lives of others 2006" tvg-logo="http://wagnet.club:25461/images/E19pSTjCLXhINLlB298rYsyGmUroIuiW.jpg" group-title="2019 Movies",the lives of others 2006
+http://wagnet.club:25461/movie/greg/greg/503.mp4
+#EXTINF:-1 tvg-id="" tvg-name="cinema paradiso 1988" tvg-logo="http://wagnet.club:25461/images/Odmh4QlAHCQldYBAd1exc2uQPEX0FDyZ.jpg" group-title="2019 Movies",cinema paradiso 1988
+http://wagnet.club:25461/movie/greg/greg/504.mkv
+#EXTINF:-1 tvg-id="" tvg-name="django unchained 2012" tvg-logo="http://wagnet.club:25461/images/QonFiN3O1dEPGo1ekIVU0vYxIJKPujOd.jpg" group-title="2019 Movies",django unchained 2012
+http://wagnet.club:25461/movie/greg/greg/505.mp4
+#EXTINF:-1 tvg-id="" tvg-name="the shining 1980" tvg-logo="http://wagnet.club:25461/images/qryZvie2s96OzeuLaxPgxN3nkfzO6sGs.jpg" group-title="2019 Movies",the shining 1980
+http://wagnet.club:25461/movie/greg/greg/506.mkv
+#EXTINF:-1 tvg-id="" tvg-name="batman the dark knight rises 2012" tvg-logo="http://wagnet.club:25461/images/ZRXrG7ZtbftZmCOF43ssUjuahgRVkLDY.jpg" group-title="2019 Movies",batman the dark knight rises 2012
+http://wagnet.club:25461/movie/greg/greg/507.mkv
+#EXTINF:-1 tvg-id="" tvg-name="das boot 1981" tvg-logo="http://wagnet.club:25461/images/WLq7a2ToWni5ppEeTaipjqY9Iv1FEhUc.jpg" group-title="2019 Movies",das boot 1981
+http://wagnet.club:25461/movie/greg/greg/508.mkv
+#EXTINF:-1 tvg-id="" tvg-name="oldboy2003" tvg-logo="http://wagnet.club:25461/images/o2T6W3HdZbDtZYs5z08zAtfTI9Mkv3gy.jpg" group-title="2019 Movies",oldboy2003
+http://wagnet.club:25461/movie/greg/greg/509.mkv
+#EXTINF:-1 tvg-id="" tvg-name="princess mononoke 1997" tvg-logo="http://wagnet.club:25461/images/IQ4iTrjeM0gWfhymvvq0JzTjJ4Oz8ad9.jpg" group-title="2019 Movies",princess mononoke 1997
+http://wagnet.club:25461/movie/greg/greg/510.mp4
+#EXTINF:-1 tvg-id="" tvg-name="toy story 3 2010" tvg-logo="http://wagnet.club:25461/images/puvzdM0BYHqUvk7wNYeVTMbWsvbEI3l0.jpg" group-title="2019 Movies",toy story 3 2010
+http://wagnet.club:25461/movie/greg/greg/511.mp4
+#EXTINF:-1 tvg-id="" tvg-name="star wars episode VI return of the jedi 1983" tvg-logo="http://wagnet.club:25461/images/4slZFEJJcmCeiGL4fcy7c6P3LoQiVm5l.jpg" group-title="2019 Movies",star wars episode VI return of the jedi 1983
+http://wagnet.club:25461/movie/greg/greg/512.mp4
+#EXTINF:-1 tvg-id="" tvg-name="once upon a time in america 1984" tvg-logo="http://wagnet.club:25461/images/TpX4vtLgGwFI1oAaX39DoaH8IncNkT0s.jpg" group-title="2019 Movies",once upon a time in america 1984
+http://wagnet.club:25461/movie/greg/greg/513.mkv
+#EXTINF:-1 tvg-id="" tvg-name="reservoir dogs 1992" tvg-logo="http://wagnet.club:25461/images/4aLdIrVhpykNCjbeqfTh5Og1YoX4GFHs.jpg" group-title="2019 Movies",reservoir dogs 1992
+http://wagnet.club:25461/movie/greg/greg/514.mp4
+#EXTINF:-1 tvg-id="" tvg-name="a clockwork orange 1971" tvg-logo="http://wagnet.club:25461/images/UyTsQ5BXEa1B2TWH1tWsqLI66ldaaeSO.jpg" group-title="2019 Movies",a clockwork orange 1971
+http://wagnet.club:25461/movie/greg/greg/515.mp4
+#EXTINF:-1 tvg-id="" tvg-name="taxi driver 1976" tvg-logo="http://wagnet.club:25461/images/VYfV2e3zWag4RQ6raIZmrLavdOODtu7y.jpg" group-title="2019 Movies",taxi driver 1976
+http://wagnet.club:25461/movie/greg/greg/516.mkv
+#EXTINF:-1 tvg-id="" tvg-name="braveheart 1995" tvg-logo="http://wagnet.club:25461/images/A91iqKqb6DHGoToPLZ5vvtd83pYjQ04m.jpg" group-title="2019 Movies",braveheart 1995
+http://wagnet.club:25461/movie/greg/greg/517.mp4
+#EXTINF:-1 tvg-id="" tvg-name="double indemnity 1944" tvg-logo="http://wagnet.club:25461/images/QnijziNRcceHNmvJumVnxlZxWlw3cc0A.jpg" group-title="2019 Movies",double indemnity 1944
+http://wagnet.club:25461/movie/greg/greg/518.mkv
+#EXTINF:-1 tvg-id="" tvg-name="requiem for a dream 2000" tvg-logo="http://wagnet.club:25461/images/sZtVjrcao2tQs1U8yWy43wqf8mRIZJpe.jpg" group-title="2019 Movies",requiem for a dream 2000
+http://wagnet.club:25461/movie/greg/greg/519.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elite Squad" tvg-logo="http://wagnet.club:25461/images/7AVX8lHtbnEAmfndPaUHh3UOimXFoupV.jpg" group-title="2019 Movies",Elite Squad
+http://wagnet.club:25461/movie/greg/greg/521.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rope" tvg-logo="http://wagnet.club:25461/images/zF7CQoH0FOQwLVKBm7iaa7kJJCDgMYGg.jpg" group-title="2019 Movies",Rope
+http://wagnet.club:25461/movie/greg/greg/522.mkv
+#EXTINF:-1 tvg-id="" tvg-name="In The Mood For Love" tvg-logo="http://wagnet.club:25461/images/TZW49P7VxJvrxe4fNV6eihhjpAcXq7zL.jpg" group-title="2019 Movies",In The Mood For Love
+http://wagnet.club:25461/movie/greg/greg/523.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Hustler" tvg-logo="http://wagnet.club:25461/images/iV3IWpe4VbhVYTZ09MuuaFNWvfjTP0Hu.jpg" group-title="2019 Movies",The Hustler
+http://wagnet.club:25461/movie/greg/greg/524.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beauty And The Beast (1991)" tvg-logo="http://wagnet.club:25461/images/Tt4YTmziirGHxAwCeZXcnn3IJRFbWtUU.jpg" group-title="2019 Movies",Beauty And The Beast (1991)
+http://wagnet.club:25461/movie/greg/greg/525.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Prisoners" tvg-logo="http://wagnet.club:25461/images/1j7mRMq54rBVi3hKYyqoVLkQCEvQ1Pdt.jpg" group-title="2019 Movies",Prisoners
+http://wagnet.club:25461/movie/greg/greg/526.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Papillon" tvg-logo="http://wagnet.club:25461/images/SB5vkZwGrUkL0PtObVMloz5NzFDnIDo2.jpg" group-title="2019 Movies",Papillon
+http://wagnet.club:25461/movie/greg/greg/527.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Gradute" tvg-logo="http://wagnet.club:25461/images/BE7mk85r1fFfCqKsEAhpjJZIuj3yF0Ij.jpg" group-title="2019 Movies",The Gradute
+http://wagnet.club:25461/movie/greg/greg/528.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Big Sleep" tvg-logo="http://wagnet.club:25461/images/PgFHPh8agC0ezehZ0ZHYxxoaIxG0pBZw.jpg" group-title="2019 Movies",The Big Sleep
+http://wagnet.club:25461/movie/greg/greg/530.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Help" tvg-logo="http://wagnet.club:25461/images/uoXnZqoCaX6eI96eVvkxOsCdPyZX8wKo.jpg" group-title="2019 Movies",The Help
+http://wagnet.club:25461/movie/greg/greg/531.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic Park (1993)" tvg-logo="http://wagnet.club:25461/images/Z7IBBzlf8YKrepFyLj0Z4MBmficC3Osf.jpg" group-title="2019 Movies",Jurassic Park (1993)
+http://wagnet.club:25461/movie/greg/greg/532.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Strada" tvg-logo="http://wagnet.club:25461/images/XABQV69ROZLTkMdzyuO8kx7XKgyCPXam.jpg" group-title="2019 Movies",La Strada
+http://wagnet.club:25461/movie/greg/greg/533.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Castle In The sky" tvg-logo="http://wagnet.club:25461/images/YcN3xspI5lA1rHiwqzKow5XHR0NGR0dj.jpg" group-title="2019 Movies",Castle In The sky
+http://wagnet.club:25461/movie/greg/greg/534.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Truman Show" tvg-logo="http://wagnet.club:25461/images/Mp8AaBeI2RD4LvJZb9QZ7E5iCCishHPI.jpg" group-title="2019 Movies",The Truman Show
+http://wagnet.club:25461/movie/greg/greg/535.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Who's afraid of virginia wolf" tvg-logo="http://wagnet.club:25461/images/sgIaT7BIqglbvwipKA3yTzjE0i6lmZ2X.jpg" group-title="2019 Movies",Who's afraid of virginia wolf
+http://wagnet.club:25461/movie/greg/greg/536.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A fistful of dollars" tvg-logo="http://wagnet.club:25461/images/Sq19qxTUUHdErzjYUbI40plLOlFx3Xtl.jpg" group-title="2019 Movies",A fistful of dollars
+http://wagnet.club:25461/movie/greg/greg/537.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pirates of the caribbean - The curse of the black pearl" tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2F8%2F89%2FPirates_of_the_Caribbean_-_The_Curse_of_the_Black_Pearl.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPirates_of_the_Caribbean%3A_The_Curse_of_the_Black_Pearl&docid=QpSQ-8neKvIwQM&tbnid=dl12J-lTW56ztM%3A&vet=10ahUKEwjmhu__-9rlAhUSu3EKHWb2AHUQMwhuKAAwAA..i&w=220&h=328&bih=610&biw=1280&q=pirates%20of%20the%20caribbean%20the%20curse%20of%20the%20black%20pearl&ved=0ahUKEwjmhu__-9rlAhUSu3EKHWb2AHUQMwhuKAAwAA&iact=mrc&uact=8" group-title="2019 Movies",Pirates of the caribbean - The curse of the black pearl
+http://wagnet.club:25461/movie/greg/greg/538.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barry Lyndon" tvg-logo="http://wagnet.club:25461/images/KFYzeYKQIEhPFBtiy2PVXlTw6ItY3d0v.jpg" group-title="2019 Movies",Barry Lyndon
+http://wagnet.club:25461/movie/greg/greg/539.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dog Day Afternoon" tvg-logo="http://wagnet.club:25461/images/YyMeYXXEcDjh9E001GqjxvXh4oiC7HQ2.jpg" group-title="2019 Movies",Dog Day Afternoon
+http://wagnet.club:25461/movie/greg/greg/541.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Haine" tvg-logo="http://wagnet.club:25461/images/ucz3VM5aNkJaNe38Ybq6XKkO5iLda5i3.jpg" group-title="2019 Movies",La Haine
+http://wagnet.club:25461/movie/greg/greg/542.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The battle of algiers" tvg-logo="http://wagnet.club:25461/images/dwfyHffo1HVLETqKSAhiUFqYssQf1cYR.jpg" group-title="2019 Movies",The battle of algiers
+http://wagnet.club:25461/movie/greg/greg/543.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The night of the hunter" tvg-logo="http://wagnet.club:25461/images/RRTkM4YZBOAfelRjWwp9CY3AIrbu5CQ1.jpg" group-title="2019 Movies",The night of the hunter
+http://wagnet.club:25461/movie/greg/greg/544.mkv
+#EXTINF:-1 tvg-id="" tvg-name="X-men Days of future past" tvg-logo="http://wagnet.club:25461/images/QxYifUfQAmyLUIawQQAZkl3Knwj2kHKZ.jpg" group-title="2019 Movies",X-men Days of future past
+http://wagnet.club:25461/movie/greg/greg/545.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monsters, Inc" tvg-logo="http://wagnet.club:25461/images/UtuhgXIhYS4aA3An0K0n44HED4wofKxm.jpg" group-title="2019 Movies",Monsters, Inc
+http://wagnet.club:25461/movie/greg/greg/546.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rocky (1976)" tvg-logo="http://wagnet.club:25461/images/2ekH5t6cdUxm9fpNSzrEPUzY87WPZ8No.jpg" group-title="2019 Movies",Rocky (1976)
+http://wagnet.club:25461/movie/greg/greg/547.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kingsman - The Secret Service" tvg-logo="http://wagnet.club:25461/images/uzrugWnbzNBosxdnf0kPRDBypSxohIk0.jpg" group-title="2019 Movies",Kingsman - The Secret Service
+http://wagnet.club:25461/movie/greg/greg/548.avi
+#EXTINF:-1 tvg-id="" tvg-name="Ip man (2008)" tvg-logo="http://wagnet.club:25461/images/haAkXAxKGFD2x2jCCGS4B6DFvhXUcVb1.jpg" group-title="2019 Movies",Ip man (2008)
+http://wagnet.club:25461/movie/greg/greg/549.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter and the deathly hallows Part 2" tvg-logo="http://wagnet.club:25461/images/2HxubueEJBwosHbnpY9qyJbMzCbyPYBM.jpg" group-title="2019 Movies",Harry Potter and the deathly hallows Part 2
+http://wagnet.club:25461/movie/greg/greg/550.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The kings speech" tvg-logo="http://wagnet.club:25461/images/BgUPVZDRIZ5nRDfseTdO4Zft1nLambmW.jpg" group-title="2019 Movies",The kings speech
+http://wagnet.club:25461/movie/greg/greg/551.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fanny And Alexander" tvg-logo="http://wagnet.club:25461/images/ap8SStnEwmSISIaFx3GA5ErIRyYfSA3h.jpg" group-title="2019 Movies",Fanny And Alexander
+http://wagnet.club:25461/movie/greg/greg/552.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gangs of Wasseypur" tvg-logo="http://wagnet.club:25461/images/RgkfP50gjtGPtLWQ3qNjRpThX6qD0PcC.jpg" group-title="2019 Movies",Gangs of Wasseypur
+http://wagnet.club:25461/movie/greg/greg/553.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Notorious (1946)" tvg-logo="http://wagnet.club:25461/images/myse1Q85gXedXp0IRT4aMI9y020GjgfH.jpg" group-title="2019 Movies",Notorious (1946)
+http://wagnet.club:25461/movie/greg/greg/554.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Groundhog Day" tvg-logo="http://wagnet.club:25461/images/a79XIrQEPGq1Mg23P7jxUCWZdufSFGt9.jpg" group-title="2019 Movies",Groundhog Day
+http://wagnet.club:25461/movie/greg/greg/555.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Terminator (1984)" tvg-logo="http://wagnet.club:25461/images/qsoti19JNoIclYhqT4kBETDl09zqfsKh.jpg" group-title="2019 Movies",The Terminator (1984)
+http://wagnet.club:25461/movie/greg/greg/556.mp4
+#EXTINF:-1 tvg-id="" tvg-name="High Noon" tvg-logo="http://wagnet.club:25461/images/2qE0VdfToXiB1ysF2LafY5SCwUq70mot.jpg" group-title="2019 Movies",High Noon
+http://wagnet.club:25461/movie/greg/greg/557.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Before sunshine" tvg-logo="http://wagnet.club:25461/images/IKcEaug2UJKj4sQvM12YXy5OhJSZoGHA.jpg" group-title="2019 Movies",Before sunshine
+http://wagnet.club:25461/movie/greg/greg/558.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lagaan" tvg-logo="http://wagnet.club:25461/images/80c8nOPItu7xbE2wcGLFiGytm91TLcWR.jpg" group-title="2019 Movies",Lagaan
+http://wagnet.club:25461/movie/greg/greg/559.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jaws (1975)" tvg-logo="http://wagnet.club:25461/images/w5ZMt922CDCfKuPkYEN9KT70Nquy37SX.jpg" group-title="2019 Movies",Jaws (1975)
+http://wagnet.club:25461/movie/greg/greg/560.mp4
+#EXTINF:-1 tvg-id="" tvg-name="12 Monkeys" tvg-logo="http://wagnet.club:25461/images/M8cNS4BtuUwHZcrKfyHy4PHf0Y6bTF4h.jpg" group-title="2019 Movies",12 Monkeys
+http://wagnet.club:25461/movie/greg/greg/561.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stalker" tvg-logo="http://wagnet.club:25461/images/FacOF1TsF69m9TMCY4SAyHjQ7noirUVe.jpg" group-title="2019 Movies",Stalker
+http://wagnet.club:25461/movie/greg/greg/562.avi
+#EXTINF:-1 tvg-id="" tvg-name="Infernal Affairs" tvg-logo="http://wagnet.club:25461/images/oSTl5MQF4D6mbvkapEebyHMidArIQPEn.jpg" group-title="2019 Movies",Infernal Affairs
+http://wagnet.club:25461/movie/greg/greg/563.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shutter Island" tvg-logo="http://wagnet.club:25461/images/ixta1LsrqZJrxOuERRPHttZBaJPXzOIm.jpg" group-title="2019 Movies",Shutter Island
+http://wagnet.club:25461/movie/greg/greg/564.mkv
+#EXTINF:-1 tvg-id="" tvg-name="8 1/2" tvg-logo="http://wagnet.club:25461/images/qbEi0ILQ0nCbjxv6Z9mIJombD4i0TO4Z.jpg" group-title="2019 Movies",8 1/2
+http://wagnet.club:25461/movie/greg/greg/565.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Strangers on a train" tvg-logo="http://wagnet.club:25461/images/puR1QhMlGzgYuhntIlXr2g5RASWpHJef.jpg" group-title="2019 Movies",Strangers on a train
+http://wagnet.club:25461/movie/greg/greg/566.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Donnie Darko" tvg-logo="http://wagnet.club:25461/images/8WTFJ3RJNh1sQ1vNygeo8q1inixjxAdH.jpg" group-title="2019 Movies",Donnie Darko
+http://wagnet.club:25461/movie/greg/greg/567.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The bourne ultimatium" tvg-logo="http://wagnet.club:25461/images/gmfPpP5ONT2xRMvUFk5Pokf0hyoxTZK8.jpg" group-title="2019 Movies",The bourne ultimatium
+http://wagnet.club:25461/movie/greg/greg/568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghandi" tvg-logo="http://wagnet.club:25461/images/lYF2X5fSCGPzQjODcgAhlgiE2MkaLjVS.jpg" group-title="2019 Movies",Ghandi
+http://wagnet.club:25461/movie/greg/greg/569.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Avengers (2012)" tvg-logo="http://wagnet.club:25461/images/QioO9xMK7o5INwgFnN2AtzokVeWLHCXT.jpg" group-title="2019 Movies",The Avengers (2012)
+http://wagnet.club:25461/movie/greg/greg/570.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The imitiation game" tvg-logo="http://wagnet.club:25461/images/ylo0vtxV098QtVKQV6Nj1BGGykYCldu9.jpg" group-title="2019 Movies",The imitiation game
+http://wagnet.club:25461/movie/greg/greg/571.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nausicaa of the valley" tvg-logo="http://wagnet.club:25461/images/qNQ1PWxMQy20k33cnxwxlz6yKg2nw8ZQ.jpg" group-title="2019 Movies",Nausicaa of the valley
+http://wagnet.club:25461/movie/greg/greg/572.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The best years of our lives" tvg-logo="http://wagnet.club:25461/images/YnB2ZnWgeKJTtNhI9GXN07QkRY1Z6gpr.jpg" group-title="2019 Movies",The best years of our lives
+http://wagnet.club:25461/movie/greg/greg/573.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The wizard of oz (1939)" tvg-logo="http://wagnet.club:25461/images/327H7MouTYsyKETMEM8BRSKPZ86pSbM9.jpg" group-title="2019 Movies",The wizard of oz (1939)
+http://wagnet.club:25461/movie/greg/greg/574.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dil Chahta Hai" tvg-logo="http://wagnet.club:25461/images/Ll4m7TVbBz4gpgxas7zv4PLJ0OaUt2yv.jpg" group-title="2019 Movies",Dil Chahta Hai
+http://wagnet.club:25461/movie/greg/greg/575.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Persona" tvg-logo="http://wagnet.club:25461/images/xUF3D7iRHtuxmxQFIZM61ciGANNOdrwl.jpg" group-title="2019 Movies",Persona
+http://wagnet.club:25461/movie/greg/greg/576.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Guardians of the galaxy (2014)" tvg-logo="http://wagnet.club:25461/images/vuP4KwdkZSkpVn4s0zmqQJY9TUxnFPtr.jpg" group-title="2019 Movies",Guardians of the galaxy (2014)
+http://wagnet.club:25461/movie/greg/greg/577.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The grapes of wrath" tvg-logo="http://wagnet.club:25461/images/t3GQt6RZpd8PNLACgP5q2w3G3bbrFfwM.jpg" group-title="2019 Movies",The grapes of wrath
+http://wagnet.club:25461/movie/greg/greg/578.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hachi - A dogs tale" tvg-logo="http://wagnet.club:25461/images/8VNmz6h6Ni596qyEWZCoZecNuh3jtvDg.jpg" group-title="2019 Movies",Hachi - A dogs tale
+http://wagnet.club:25461/movie/greg/greg/579.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Million dollar baby" tvg-logo="http://wagnet.club:25461/images/Z6GLvO1M8kl1lNW66kuJQUnpDb413EJ0.jpg" group-title="2019 Movies",Million dollar baby
+http://wagnet.club:25461/movie/greg/greg/580.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The 400 Blows" tvg-logo="http://wagnet.club:25461/images/D0UhTPyovFmaxQCRugMdQatY88alMTJx.jpg" group-title="2019 Movies",The 400 Blows
+http://wagnet.club:25461/movie/greg/greg/581.mkv
+#EXTINF:-1 tvg-id="" tvg-name="In the name of the father" tvg-logo="http://wagnet.club:25461/images/YdQbKW431GySz2lg5BpyzGYawCTKjrKY.jpg" group-title="2019 Movies",In the name of the father
+http://wagnet.club:25461/movie/greg/greg/582.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sin city" tvg-logo="http://wagnet.club:25461/images/GOXG2Bwn39PtIxIwGgo2fnsLzaYroFdw.jpg" group-title="2019 Movies",Sin city
+http://wagnet.club:25461/movie/greg/greg/583.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amores" tvg-logo="http://wagnet.club:25461/images/IzvxFFjupYeHuii4Nocn2dj9rxD2055e.jpg" group-title="2019 Movies",Amores
+http://wagnet.club:25461/movie/greg/greg/584.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ben-Hur" tvg-logo="http://wagnet.club:25461/images/h5lh67L438I3D6o1exyIf4Z9wEcav5iE.jpg" group-title="2019 Movies",Ben-Hur
+http://wagnet.club:25461/movie/greg/greg/585.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The grand budapest hotel" tvg-logo="http://wagnet.club:25461/images/EM6gpPr39fU6w4w23M0d5h5IGxJTvIyK.jpg" group-title="2019 Movies",The grand budapest hotel
+http://wagnet.club:25461/movie/greg/greg/586.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stand by me" tvg-logo="http://wagnet.club:25461/images/oTIeqCIHbI8ilCnwGpSMVQ7h0pCBhOiV.jpg" group-title="2019 Movies",Stand by me
+http://wagnet.club:25461/movie/greg/greg/587.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The pincess Bride" tvg-logo="http://wagnet.club:25461/images/iOMrqvSJDPGQDt00M1tsHh2zQf8U1Nuq.jpg" group-title="2019 Movies",The pincess Bride
+http://wagnet.club:25461/movie/greg/greg/588.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Annie Hall" tvg-logo="http://wagnet.club:25461/images/yO6v6zQn3CtQ4tXNyrKGUpbPdUx3CROK.jpg" group-title="2019 Movies",Annie Hall
+http://wagnet.club:25461/movie/greg/greg/589.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diabolique" tvg-logo="http://wagnet.club:25461/images/CZo1G6Go4NYxgdZYDSuANAQYw0nfty3e.jpeg" group-title="2019 Movies",Diabolique
+http://wagnet.club:25461/movie/greg/greg/590.mkv
+#EXTINF:-1 tvg-id="" tvg-name="There will be blood" tvg-logo="http://wagnet.club:25461/images/flELqltvo9PveiIumlwXpHtLyNw1zMlF.jpg" group-title="2019 Movies",There will be blood
+http://wagnet.club:25461/movie/greg/greg/591.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Touch of evil" tvg-logo="http://wagnet.club:25461/images/uRmlOBsYqVvWluWzWqjATYuWfMO3HIfb.jpg" group-title="2019 Movies",Touch of evil
+http://wagnet.club:25461/movie/greg/greg/592.mkv
+#EXTINF:-1 tvg-id="" tvg-name="12 years a slave" tvg-logo="http://wagnet.club:25461/images/1LthcgnJJXSDb4jSh77mkyhIWf7FgvPD.jpg" group-title="2019 Movies",12 years a slave
+http://wagnet.club:25461/movie/greg/greg/594.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Network" tvg-logo="http://wagnet.club:25461/images/Fw79AIJsxQeWKQA4Tv2BLLC6mZH20hta.jpg" group-title="2019 Movies",Network
+http://wagnet.club:25461/movie/greg/greg/595.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Life of brian" tvg-logo="http://wagnet.club:25461/images/quWWczyAhCVPjUpzlShmHe4K29RdanSn.jpeg" group-title="2019 Movies",Life of brian
+http://wagnet.club:25461/movie/greg/greg/596.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Platoon" tvg-logo="http://wagnet.club:25461/images/8DTgOGdr1H9BMTw8Kve63MclsFv7p5RX.jpg" group-title="2019 Movies",Platoon
+http://wagnet.club:25461/movie/greg/greg/597.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kill Bill Vol 1" tvg-logo="http://wagnet.club:25461/images/y3n3kHFpxbTTJTEdwshmTSWSPju8qCVP.jpg" group-title="2019 Movies",Kill Bill Vol 1
+http://wagnet.club:25461/movie/greg/greg/598.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Butch cassidy and the sundance kid" tvg-logo="http://wagnet.club:25461/images/dfCJkDs9dtc5JZRHXETzWwHaeAQm4RWp.jpg" group-title="2019 Movies",Butch cassidy and the sundance kid
+http://wagnet.club:25461/movie/greg/greg/599.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No country for old men" tvg-logo="http://wagnet.club:25461/images/C3rbHFylnmurAjToIK0HaeVf7azo5Tb3.jpg" group-title="2019 Movies",No country for old men
+http://wagnet.club:25461/movie/greg/greg/600.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Incendies" tvg-logo="http://wagnet.club:25461/images/YhnFxjIIaCEiBDFCXOwG2sYpECeiQGlQ.jpg" group-title="2019 Movies",Incendies
+http://wagnet.club:25461/movie/greg/greg/601.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mary and Max" tvg-logo="http://wagnet.club:25461/images/DTqP9kkqtHl0G2SU0sYCbflHKcnFsn2j.jpg" group-title="2019 Movies",Mary and Max
+http://wagnet.club:25461/movie/greg/greg/602.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Finding Nemo (2003)" tvg-logo="http://wagnet.club:25461/images/CYjPwOzLqj5OR4YKdWxONXDWxSdI0oIk.jpg" group-title="2019 Movies",Finding Nemo (2003)
+http://wagnet.club:25461/movie/greg/greg/603.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Thing" tvg-logo="http://wagnet.club:25461/images/CCAnW8mfrLVs52TkI8m9q8ecuxXuvMSb.jpg" group-title="2019 Movies",The Thing
+http://wagnet.club:25461/movie/greg/greg/604.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The wages of fear" tvg-logo="http://wagnet.club:25461/images/pB9Q5WCWvUFYuRjdBqQE2Opo2iuKBzd5.jpg" group-title="2019 Movies",The wages of fear
+http://wagnet.club:25461/movie/greg/greg/605.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hotel Rwanda" tvg-logo="http://wagnet.club:25461/images/EByvM60MkwWNJfxN591PD5K1kfD2XrNP.jpg" group-title="2019 Movies",Hotel Rwanda
+http://wagnet.club:25461/movie/greg/greg/606.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The sixth sense" tvg-logo="http://wagnet.club:25461/images/2BTqn1NxGBz7ztkvSwmANCI6PMvTIdoI.jpg" group-title="2019 Movies",The sixth sense
+http://wagnet.club:25461/movie/greg/greg/607.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dial M for murder" tvg-logo="http://wagnet.club:25461/images/EQsgKigOp93cdUptnZWrkq2v56S7LnTR.jpg" group-title="2019 Movies",Dial M for murder
+http://wagnet.club:25461/movie/greg/greg/608.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The maltese falcon" tvg-logo="http://wagnet.club:25461/images/q12NxuDYOY2vAFB0CqxRqY2g378n7j2e.jpg" group-title="2019 Movies",The maltese falcon
+http://wagnet.club:25461/movie/greg/greg/609.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Into the wild" tvg-logo="http://wagnet.club:25461/images/y0RES0GCbgIZMIqEm1twPAsH1Jvc6hjt.jpg" group-title="2019 Movies",Into the wild
+http://wagnet.club:25461/movie/greg/greg/611.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gone with the wind" tvg-logo="http://wagnet.club:25461/images/3E2hMCspGgq2UFSkyl5natlhnJxGNh7k.jpg" group-title="2019 Movies",Gone with the wind
+http://wagnet.club:25461/movie/greg/greg/612.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A beautiful mind" tvg-logo="http://wagnet.club:25461/images/ORftguXQ5hVe9DK0bHe37CmckLDUxz65.jpg" group-title="2019 Movies",A beautiful mind
+http://wagnet.club:25461/movie/greg/greg/613.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trainspotting" tvg-logo="http://wagnet.club:25461/images/FHDylHpWA4BIIrsH15JTpFDvS7PYFCU3.jpg" group-title="2019 Movies",Trainspotting
+http://wagnet.club:25461/movie/greg/greg/614.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fargo" tvg-logo="http://wagnet.club:25461/images/q298tfo6a7LpbncNVF6BDDPqokJqOtyo.jpg" group-title="2019 Movies",Fargo
+http://wagnet.club:25461/movie/greg/greg/615.mkv
+#EXTINF:-1 tvg-id="" tvg-name="It happened one night" tvg-logo="http://wagnet.club:25461/images/4XYfm2DkvKJBFQNRFFZS0hE0vr9oB6qI.jpg" group-title="2019 Movies",It happened one night
+http://wagnet.club:25461/movie/greg/greg/616.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Judgment at nuremberg" tvg-logo="http://wagnet.club:25461/images/CsPaPgWhopMUpNgVbxlciK74lTnOA5fD.jpg" group-title="2019 Movies",Judgment at nuremberg
+http://wagnet.club:25461/movie/greg/greg/617.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cool hand luke" tvg-logo="http://wagnet.club:25461/images/UCCrZtj9BKI0Zd5eKW5WWluo20xKt4h3.jpg" group-title="2019 Movies",Cool hand luke
+http://wagnet.club:25461/movie/greg/greg/618.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rang De Basanti" tvg-logo="http://wagnet.club:25461/images/f1bwlswnyAQwA0YAu5qTZpVBK5Y61qBV.jpg" group-title="2019 Movies",Rang De Basanti
+http://wagnet.club:25461/movie/greg/greg/619.mkv
+#EXTINF:-1 tvg-id="" tvg-name="How to train your dragon" tvg-logo="http://wagnet.club:25461/images/YA2klCQGsejGtfLUwMxmW5oQ4MWvmGh2.jpg" group-title="2019 Movies",How to train your dragon
+http://wagnet.club:25461/movie/greg/greg/620.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The deer hunter" tvg-logo="http://wagnet.club:25461/images/VmydGmIHuAjzfCQQv55HSZLULLuQQeXQ.jpg" group-title="2019 Movies",The deer hunter
+http://wagnet.club:25461/movie/greg/greg/621.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A wednesday" tvg-logo="http://wagnet.club:25461/images/9MxrCLwzCJksWrVoo4bzNdehojCRmPCv.jpg" group-title="2019 Movies",A wednesday
+http://wagnet.club:25461/movie/greg/greg/622.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rebecca" tvg-logo="http://wagnet.club:25461/images/Ph4e4f9855Jq0eqyjEgKcSODXVpxfLgT.jpg" group-title="2019 Movies",Rebecca
+http://wagnet.club:25461/movie/greg/greg/623.mp4
+#EXTINF:-1 tvg-id="" tvg-name="V for Vendetta" tvg-logo="http://wagnet.club:25461/images/Zt70DhuydCt4zd1bSBUelBfKInWGJVwJ.jpg" group-title="2019 Movies",V for Vendetta
+http://wagnet.club:25461/movie/greg/greg/624.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Howls moving castle" tvg-logo="http://wagnet.club:25461/images/tY3TnT5RAjbd478OYBxj6c65r8bZRHZT.jpg" group-title="2019 Movies",Howls moving castle
+http://wagnet.club:25461/movie/greg/greg/625.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The big lebowski" tvg-logo="http://wagnet.club:25461/images/yZclMw597ftWe07r1BO0xFBSOSA9tPP5.jpg" group-title="2019 Movies",The big lebowski
+http://wagnet.club:25461/movie/greg/greg/627.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Warrior" tvg-logo="http://wagnet.club:25461/images/yO79mawDtvGeCvqkzfYcu70EKwTDBcX7.jpg" group-title="2019 Movies",Warrior
+http://wagnet.club:25461/movie/greg/greg/628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Munna Bhai M.B.B.S" tvg-logo="http://wagnet.club:25461/images/zdMBG9HqgCT4A5LIn2HAzvhKQZL38uEh.jpg" group-title="2019 Movies",Munna Bhai M.B.B.S
+http://wagnet.club:25461/movie/greg/greg/629.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gran Torino" tvg-logo="http://wagnet.club:25461/images/Mt2qqAIEZa4rdonBBdrOmOKRYrOlZNXw.jpg" group-title="2019 Movies",Gran Torino
+http://wagnet.club:25461/movie/greg/greg/630.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Casino (1995)" tvg-logo="http://wagnet.club:25461/images/hr4IlyUk8ABE5rf70zuOjum4FalCExQz.jpg" group-title="2019 Movies",Casino (1995)
+http://wagnet.club:25461/movie/greg/greg/631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gone Girl" tvg-logo="http://wagnet.club:25461/images/EICLsyafWFfEP1Pcdl212WVOgkk4fN40.jpg" group-title="2019 Movies",Gone Girl
+http://wagnet.club:25461/movie/greg/greg/632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The secret in their eyes" tvg-logo="http://wagnet.club:25461/images/ZUyv6c98zolhm4ISWZB2a22KI8Me2qWi.jpg" group-title="2019 Movies",The secret in their eyes
+http://wagnet.club:25461/movie/greg/greg/633.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The wold of wall street" tvg-logo="http://wagnet.club:25461/images/8VJAq73cOfE1RARY1qoHSWARuVpzCrXX.jpg" group-title="2019 Movies",The wold of wall street
+http://wagnet.club:25461/movie/greg/greg/634.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The General" tvg-logo="http://wagnet.club:25461/images/upDgPfKp2GqFPME8AY7IQZxZkfqJQ2TB.jpg" group-title="2019 Movies",The General
+http://wagnet.club:25461/movie/greg/greg/635.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lock Stock and Two Smoking Barrels" tvg-logo="http://wagnet.club:25461/images/ZpKPKXkJkJLF9lKMrZ7CfI2dQ9CkcOgE.jpg" group-title="2019 Movies",Lock Stock and Two Smoking Barrels
+http://wagnet.club:25461/movie/greg/greg/636.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wild Strawberries" tvg-logo="http://wagnet.club:25461/images/f0KeZdcUAIPOS9ZHKPNKQNCrpRzauM8p.jpg" group-title="2019 Movies",Wild Strawberries
+http://wagnet.club:25461/movie/greg/greg/637.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blade Runner" tvg-logo="http://wagnet.club:25461/images/inPoaMrqAaw8yZBP40R70WpKAb8gqH5P.jpg" group-title="2019 Movies",Blade Runner
+http://wagnet.club:25461/movie/greg/greg/638.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ran" tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Flight-in-the-attic.s3.amazonaws.com%2Fuploads%2Frelease_image%2F19160%2Fimage%2Ftmp_2F1472922191647-6mdfhhoipps80wih-b08305676cb02f897b5557dbeb27ea20_2FSILCD1518-RAN-cover.jpg&imgrefurl=https%3A%2F%2Flightintheattic.net%2Freleases%2F2661-ran-1985-original-soundtrack&docid=8a8-AxPV1WcIHM&tbnid=zjRVr9nyPMl_oM%3A&vet=10ahUKEwihzYzdrtvlAhVbWxUIHWhjDV4QMwhnKAgwCA..i&w=1500&h=1500&bih=610&biw=1280&q=ran%201985&ved=0ahUKEwihzYzdrtvlAhVbWxUIHWhjDV4QMwhnKAgwCA&iact=mrc&uact=8" group-title="2019 Movies",Ran
+http://wagnet.club:25461/movie/greg/greg/639.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Elephant Man" tvg-logo="http://wagnet.club:25461/images/BofACiQrIuzlhAuKAIKrJ3r4S9UX5aG8.jpg" group-title="2019 Movies",The Elephant Man
+http://wagnet.club:25461/movie/greg/greg/640.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Bandit" tvg-logo="http://wagnet.club:25461/images/PLrGonk2oceB7qQHVZwM27uHWLAkeEir.jpg" group-title="2019 Movies",The Bandit
+http://wagnet.club:25461/movie/greg/greg/641.avi
+#EXTINF:-1 tvg-id="" tvg-name="Ikiru" tvg-logo="http://wagnet.club:25461/images/BrbmdJnV0WtDKMO0NhxA0bRN3syLUJNq.jpg" group-title="2019 Movies",Ikiru
+http://wagnet.club:25461/movie/greg/greg/642.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Seventh Seal" tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BNWE2NmMwZjgtOWYxYy00NWU0LTkzOGUtYTg4Yjk3MDFmY2IyXkEyXkFqcGdeQXVyMTMxODk2OTU%40._V1_.jpg&imgrefurl=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0050976%2F&docid=y9CzDMywHC2pQM&tbnid=jzJ1c1Z9Wtn35M%3A&vet=10ahUKEwjH_ubmr9vlAhUVUxUIHaIbCJkQMwh4KAAwAA..i&w=1600&h=2400&bih=610&biw=1280&q=the%20seventh%20seal&ved=0ahUKEwjH_ubmr9vlAhUVUxUIHaIbCJkQMwh4KAAwAA&iact=mrc&uact=8" group-title="2019 Movies",The Seventh Seal
+http://wagnet.club:25461/movie/greg/greg/643.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The gold rush" tvg-logo="http://wagnet.club:25461/images/12eguIEMr9vKltQm5D3wcqJMJd8mg7Dh.jpg" group-title="2019 Movies",The gold rush
+http://wagnet.club:25461/movie/greg/greg/644.mp4
+#EXTINF:-1 tvg-id="" tvg-name="My neighbor totoro" tvg-logo="http://wagnet.club:25461/images/Uzqw6WSrTE3tCeDkshaDsyJuKd0CvGe0.jpg" group-title="2019 Movies",My neighbor totoro
+http://wagnet.club:25461/movie/greg/greg/645.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The bridge on the river kwai" tvg-logo="http://wagnet.club:25461/images/BMqZADr5NH0zQjYBYHJbefNJOGq0FAdd.jpg" group-title="2019 Movies",The bridge on the river kwai
+http://wagnet.club:25461/movie/greg/greg/646.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Good will hunting" tvg-logo="http://wagnet.club:25461/images/i4mbewkDiK2tvALizq8JSXUF4pbAuvgX.jpg" group-title="2019 Movies",Good will hunting
+http://wagnet.club:25461/movie/greg/greg/647.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr smith goes to washington" tvg-logo="http://wagnet.club:25461/images/Zh6QNizehW5V7gwrypuTR9jnfFKhTZae.jpg" group-title="2019 Movies",Mr smith goes to washington
+http://wagnet.club:25461/movie/greg/greg/648.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pan's Labyrinth" tvg-logo="http://wagnet.club:25461/images/wIqOm1DNyayabCbNRkbBn5E2s2VoAYc5.jpg" group-title="2019 Movies",Pan's Labyrinth
+http://wagnet.club:25461/movie/greg/greg/649.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Heat" tvg-logo="http://wagnet.club:25461/images/DN05spTtuyMnKmnjS7pEHR1ppBJl9MRE.jpg" group-title="2019 Movies",Heat
+http://wagnet.club:25461/movie/greg/greg/650.mkv
+#EXTINF:-1 tvg-id="" tvg-name="On the waterfront" tvg-logo="http://wagnet.club:25461/images/bvD5nwUjpSSRjeYj0RV5amTpkym57KSp.jpg" group-title="2019 Movies",On the waterfront
+http://wagnet.club:25461/movie/greg/greg/651.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The hunt" tvg-logo="http://wagnet.club:25461/images/Q5L5DHCHq4ltLL8FgDlLkb6bEqJ1JsmW.jpg" group-title="2019 Movies",The hunt
+http://wagnet.club:25461/movie/greg/greg/652.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Die Hard" tvg-logo="http://wagnet.club:25461/images/KeebQ10ndhmhcONTJWSyFUx4w9WIGWMV.jpg" group-title="2019 Movies",Die Hard
+http://wagnet.club:25461/movie/greg/greg/653.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The great escape" tvg-logo="http://wagnet.club:25461/images/8ZCcTVTAeJ0DJhK5FQL87gI7I5WWw8fJ.jpg" group-title="2019 Movies",The great escape
+http://wagnet.club:25461/movie/greg/greg/654.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Downfall" tvg-logo="http://wagnet.club:25461/images/dCAcYRdQ4Q8RpGwpw3qsAefETuPJt95E.jpg" group-title="2019 Movies",Downfall
+http://wagnet.club:25461/movie/greg/greg/655.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chinatown" tvg-logo="http://wagnet.club:25461/images/QUH0g24WZk91bF6AGefGNXNm9forMVzI.jpg" group-title="2019 Movies",Chinatown
+http://wagnet.club:25461/movie/greg/greg/656.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UP" tvg-logo="http://wagnet.club:25461/images/rkTptH0IHevNvV9Q9odKgaaIGcT3ZO07.jpg" group-title="2019 Movies",UP
+http://wagnet.club:25461/movie/greg/greg/657.mp4
+#EXTINF:-1 tvg-id="" tvg-name="3 idiots" tvg-logo="http://wagnet.club:25461/images/HC66kiKrN8OlTbbdICnknD6NApWPCKHF.jpg" group-title="2019 Movies",3 idiots
+http://wagnet.club:25461/movie/greg/greg/658.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Raging Bull" tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BYjRmODkzNDItMTNhNi00YjJlLTg0ZjAtODlhZTM0YzgzYThlXkEyXkFqcGdeQXVyNzQ1ODk3MTQ%40._V1_UY1200_CR92%2C0%2C630%2C1200_AL_.jpg&imgrefurl=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0081398%2F&docid=jmAM98e29neyVM&tbnid=1En75SRSQ3dJiM%3A&vet=10ahUKEwiKkfyEudvlAhVPThUIHatMCxwQMwhcKAAwAA..i&w=630&h=1200&bih=610&biw=1280&q=raging%20bull%201980&ved=0ahUKEwiKkfyEudvlAhVPThUIHatMCxwQMwhcKAAwAA&iact=mrc&uact=8" group-title="2019 Movies",Raging Bull
+http://wagnet.club:25461/movie/greg/greg/659.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scarface" tvg-logo="http://wagnet.club:25461/images/Iic32SufPDByQxmjkTtqouK9Bkzfway0.jpg" group-title="2019 Movies",Scarface
+http://wagnet.club:25461/movie/greg/greg/660.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Unforgiven" tvg-logo="http://wagnet.club:25461/images/ib0hIlIvi56FeN6fydLtykqZaVTyqHNL.jpg" group-title="2019 Movies",Unforgiven
+http://wagnet.club:25461/movie/greg/greg/661.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Metropolis" tvg-logo="http://wagnet.club:25461/images/SpQNb5Fk01gMBMaaNCdnaK6ptmwssfGJ.jpg" group-title="2019 Movies",Metropolis
+http://wagnet.club:25461/movie/greg/greg/662.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Taare Zameen Par" tvg-logo="http://wagnet.club:25461/images/m8K2z7qmwSz0Dd4CTBfaprEgSRKP7kYR.jpg" group-title="2019 Movies",Taare Zameen Par
+http://wagnet.club:25461/movie/greg/greg/663.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batman Begins" tvg-logo="http://wagnet.club:25461/images/ER1OhAKkGgUBQQcVOF83BOtSr54ACjAN.jpg" group-title="2019 Movies",Batman Begins
+http://wagnet.club:25461/movie/greg/greg/664.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yojimbo" tvg-logo="http://wagnet.club:25461/images/wYSVyMpcjIbZYnGqrVK8WxVOwpKwkqFJ.jpg" group-title="2019 Movies",Yojimbo
+http://wagnet.club:25461/movie/greg/greg/665.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The third man" tvg-logo="http://wagnet.club:25461/images/3JQHcEdxqV9SU3i5inQ2tu4CkAsFT9jg.jpg" group-title="2019 Movies",The third man
+http://wagnet.club:25461/movie/greg/greg/666.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Separation" tvg-logo="http://wagnet.club:25461/images/kOe79Q6ux11oh89w8RW1sa5CmqyyvsAe.jpg" group-title="2019 Movies",A Separation
+http://wagnet.club:25461/movie/greg/greg/667.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Indiana Jones and the last crusade" tvg-logo="http://wagnet.club:25461/images/yfi598yFqX7bOUEOKUhnfiIxUxFJgycG.jpeg" group-title="2019 Movies",Indiana Jones and the last crusade
+http://wagnet.club:25461/movie/greg/greg/668.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The treasure of the sierra madre" tvg-logo="http://wagnet.club:25461/images/O3kDC09u3PXnOytCQeQX6vlsbh738Bcc.jpg" group-title="2019 Movies",The treasure of the sierra madre
+http://wagnet.club:25461/movie/greg/greg/669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Some like it hot" tvg-logo="http://wagnet.club:25461/images/0znDnVYFwqg9K0RIswMWacNJ0m3MFXtP.jpg" group-title="2019 Movies",Some like it hot
+http://wagnet.club:25461/movie/greg/greg/670.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Toy Story (1995)" tvg-logo="http://wagnet.club:25461/images/iVYt4D81XQFrbz8eZ85OHQfW58OV2JzJ.jpg" group-title="2019 Movies",Toy Story (1995)
+http://wagnet.club:25461/movie/greg/greg/671.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Inglorious Bastards" tvg-logo="http://wagnet.club:25461/images/sn7TAVO0myAjZfnOTPRcCKQgjTq1Z8Uk.jpg" group-title="2019 Movies",Inglorious Bastards
+http://wagnet.club:25461/movie/greg/greg/672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Apartment" tvg-logo="http://wagnet.club:25461/images/9NJ7AjVJin3qDJfyVOgqo9pCrGMwuWPI.jpg" group-title="2019 Movies",The Apartment
+http://wagnet.club:25461/movie/greg/greg/673.mkv
+#EXTINF:-1 tvg-id="" tvg-name="All about eve" tvg-logo="http://wagnet.club:25461/images/Hib831m7tgIRTRmslsRfttxkaZGm1uTu.jpg" group-title="2019 Movies",All about eve
+http://wagnet.club:25461/movie/greg/greg/674.mp4
+#EXTINF:-1 tvg-id="" tvg-name="L.A Confidential" tvg-logo="http://wagnet.club:25461/images/QybMK2P7WdaRKXR160w9mXlKH6xcw1r5.jpg" group-title="2019 Movies",L.A Confidential
+http://wagnet.club:25461/movie/greg/greg/675.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rashomon" tvg-logo="http://wagnet.club:25461/images/ywxsanAt5TJMNRwiVbnXXFMV4vzXldxw.jpg" group-title="2019 Movies",Rashomon
+http://wagnet.club:25461/movie/greg/greg/676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="For a few dollars more" tvg-logo="http://wagnet.club:25461/images/SnOd677tA7QP7HfbYZHrYxRhIC1mwa3r.jpg" group-title="2019 Movies",For a few dollars more
+http://wagnet.club:25461/movie/greg/greg/677.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Kid" tvg-logo="http://wagnet.club:25461/images/0y56OSBFjUVIvj6Bx5zq7RdZfg1yE20Z.jpg" group-title="2019 Movies",The Kid
+http://wagnet.club:25461/movie/greg/greg/678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A space odyssey" tvg-logo="http://wagnet.club:25461/images/1BjI3eYdgF4T6DWJjdOGJnCiHGQKHPlk.jpg" group-title="2019 Movies",A space odyssey
+http://wagnet.club:25461/movie/greg/greg/679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monty Python and the holy grail" tvg-logo="http://wagnet.club:25461/images/hbDJozsL8cHIKA9jBB6p0gTkPaPuaYT2.jpg" group-title="2019 Movies",Monty Python and the holy grail
+http://wagnet.club:25461/movie/greg/greg/680.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amadeus" tvg-logo="http://wagnet.club:25461/images/A53oKYjgjHYBcBnyHynmGQmS1IfnWU4i.jpg" group-title="2019 Movies",Amadeus
+http://wagnet.club:25461/movie/greg/greg/681.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bicycle Thieves" tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fs3.amazonaws.com%2Fcriterion-production%2Ffilms%2Fa020c4272223b01fa84782ca7f80ef3b%2FEtDUUmNY6vAX9TcTq0uRKG4BVqToH3_large.jpg&imgrefurl=https%3A%2F%2Fwww.criterion.com%2Ffilms%2F210-bicycle-thieves&docid=VwfAvWqSjXZxXM&tbnid=5sYrWKYUOyVRrM%3A&vet=10ahUKEwjxkYWMxdvlAhWUQkEAHTp5DXIQMwhkKAcwBw..i&w=1288&h=1600&bih=610&biw=1280&q=bicycle%20thieves%201948&ved=0ahUKEwjxkYWMxdvlAhWUQkEAHTp5DXIQMwhkKAcwBw&iact=mrc&uact=8" group-title="2019 Movies",Bicycle Thieves
+http://wagnet.club:25461/movie/greg/greg/682.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The sting" tvg-logo="http://wagnet.club:25461/images/oyzXKwurVrkoUT81VOcg3qb2DDtC2ZWg.jpg" group-title="2019 Movies",The sting
+http://wagnet.club:25461/movie/greg/greg/683.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Singin' in the rain" tvg-logo="http://wagnet.club:25461/images/WmAAvq6HYf8vCnosaBCNgRfNd6fPYVnk.jpg" group-title="2019 Movies",Singin' in the rain
+http://wagnet.club:25461/movie/greg/greg/684.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Full Metal Jacket" tvg-logo="http://wagnet.club:25461/images/5pEC6ZfAJAYnSVIpCy6UB7jBI9su1KIv.jpg" group-title="2019 Movies",Full Metal Jacket
+http://wagnet.club:25461/movie/greg/greg/685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eternal sunshine of the spotless mind" tvg-logo="http://wagnet.club:25461/images/zJE9Ikk40aJIlWo1OmxkKF5znq54GboV.jpg" group-title="2019 Movies",Eternal sunshine of the spotless mind
+http://wagnet.club:25461/movie/greg/greg/686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lawrence of arabia" tvg-logo="http://wagnet.club:25461/images/tbUwD0glnpvuoGAFnEueXIjP6p34pGiM.jpg" group-title="2019 Movies",Lawrence of arabia
+http://wagnet.club:25461/movie/greg/greg/687.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Witness for the prosecution" tvg-logo="http://wagnet.club:25461/images/XrAJVPXSXrLE9lIkDodibFBQw7nwhmAN.jpg" group-title="2019 Movies",Witness for the prosecution
+http://wagnet.club:25461/movie/greg/greg/688.mkv
+#EXTINF:-1 tvg-id="" tvg-name="To kill a mockingbird" tvg-logo="http://wagnet.club:25461/images/j3gMBgAVw6hTUmaEBaxXQ87aB5WFti88.jpg" group-title="2019 Movies",To kill a mockingbird
+http://wagnet.club:25461/movie/greg/greg/689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Supersport 1" tvg-logo="https://seeklogo.com/images/S/Super_Sport-logo-3B6B403F2C-seeklogo.com.png" group-title="Supersport EPL",Supersport 1
+http://wagnet.club:25461/greg/greg/194
+#EXTINF:-1 tvg-id="" tvg-name="Supersport 2" tvg-logo="https://seeklogo.com/images/S/Super_Sport-logo-3B6B403F2C-seeklogo.com.png" group-title="Supersport EPL",Supersport 2
+http://wagnet.club:25461/greg/greg/195
+#EXTINF:-1 tvg-id="" tvg-name="Supersport 3" tvg-logo="https://seeklogo.com/images/S/Super_Sport-logo-3B6B403F2C-seeklogo.com.png" group-title="Supersport EPL",Supersport 3
+http://wagnet.club:25461/greg/greg/196
+#EXTINF:-1 tvg-id="" tvg-name="Supersport 4" tvg-logo="https://seeklogo.com/images/S/Super_Sport-logo-3B6B403F2C-seeklogo.com.png" group-title="Supersport EPL",Supersport 4
+http://wagnet.club:25461/greg/greg/197
+#EXTINF:-1 tvg-id="" tvg-name="Supersport 5" tvg-logo="https://seeklogo.com/images/S/Super_Sport-logo-3B6B403F2C-seeklogo.com.png" group-title="Supersport EPL",Supersport 5
+http://wagnet.club:25461/greg/greg/198
+#EXTINF:-1 tvg-id="" tvg-name="Supersport 6" tvg-logo="https://seeklogo.com/images/S/Super_Sport-logo-3B6B403F2C-seeklogo.com.png" group-title="Supersport EPL",Supersport 6
+http://wagnet.club:25461/greg/greg/199
+#EXTINF:-1 tvg-id="" tvg-name="Supersport 7" tvg-logo="https://seeklogo.com/images/S/Super_Sport-logo-3B6B403F2C-seeklogo.com.png" group-title="Supersport EPL",Supersport 7
+http://wagnet.club:25461/greg/greg/200
+#EXTINF:-1 tvg-id="" tvg-name="Supersport 8" tvg-logo="https://seeklogo.com/images/S/Super_Sport-logo-3B6B403F2C-seeklogo.com.png" group-title="Supersport EPL",Supersport 8
+http://wagnet.club:25461/greg/greg/201
+#EXTINF:-1 tvg-id="" tvg-name="Supersport 9" tvg-logo="https://seeklogo.com/images/S/Super_Sport-logo-3B6B403F2C-seeklogo.com.png" group-title="Supersport EPL",Supersport 9
+http://wagnet.club:25461/greg/greg/202
+#EXTINF:-1 tvg-id="" tvg-name="Supersport 10" tvg-logo="https://seeklogo.com/images/S/Super_Sport-logo-3B6B403F2C-seeklogo.com.png" group-title="Supersport EPL",Supersport 10
+http://wagnet.club:25461/greg/greg/203
+#EXTINF:-1 tvg-id="" tvg-name="Supersport 11" tvg-logo="https://seeklogo.com/images/S/Super_Sport-logo-3B6B403F2C-seeklogo.com.png" group-title="Supersport EPL",Supersport 11
+http://wagnet.club:25461/greg/greg/204
+#EXTINF:-1 tvg-id="" tvg-name="Supersport 12" tvg-logo="https://seeklogo.com/images/S/Super_Sport-logo-3B6B403F2C-seeklogo.com.png" group-title="Supersport EPL",Supersport 12
+http://wagnet.club:25461/greg/greg/205
+#EXTINF:-1 tvg-id="" tvg-name="Uk: SKY SPORTS MAIN EVENT FHD" tvg-logo="" group-title="Sports uk backup",Uk: SKY SPORTS MAIN EVENT FHD
+http://wagnet.club:25461/greg/greg/520
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS FOOTBALL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="Sports uk backup",UK: SKY SPORTS FOOTBALL FHD
+http://wagnet.club:25461/greg/greg/307
+#EXTINF:-1 tvg-id="premiersports.uk" tvg-name="UK: PREMIER SPORTS FHD" tvg-logo="https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo.png" group-title="Sports uk backup",UK: PREMIER SPORTS FHD
+http://wagnet.club:25461/greg/greg/326
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS MIX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="Sports uk backup",UK: SKY SPORTS MIX FHD
+http://wagnet.club:25461/greg/greg/316
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS ARENA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="Sports uk backup",UK: SKY SPORTS ARENA FHD
+http://wagnet.club:25461/greg/greg/295
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS ACTION FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="Sports uk backup",UK: SKY SPORTS ACTION FHD
+http://wagnet.club:25461/greg/greg/292
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS F1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="Sports uk backup",UK: SKY SPORTS F1 HD
+http://wagnet.club:25461/greg/greg/303
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS CRICKET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="Sports uk backup",UK: SKY SPORTS CRICKET
+http://wagnet.club:25461/greg/greg/299
+#EXTINF:-1 tvg-id="" tvg-name="UK: At The Races HD" tvg-logo="http://data.attheraces.com/images/template/logo.png" group-title="Sports uk backup",UK: At The Races HD
+http://wagnet.club:25461/greg/greg/216
+#EXTINF:-1 tvg-id="" tvg-name="UK: Racing UK FHD" tvg-logo="https://www.redcarracing.co.uk/media/news/article/Racing_UK_Logo_Blue_LXW1HSq_QiX58H9.jpg.1140x670_q85_crop_upscale@2x.jpg" group-title="Sports uk backup",UK: Racing UK FHD
+http://wagnet.club:25461/greg/greg/274
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 1 FHD" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/11/Eurosport-1-symbol.png" group-title="Sports uk backup",UK: Eurosport 1 FHD
+http://wagnet.club:25461/greg/greg/249
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Eurosport_2_Logo.svg/220px-Eurosport_2_Logo.svg.png" group-title="Sports uk backup",UK: Eurosport 2 FHD
+http://wagnet.club:25461/greg/greg/252
+#EXTINF:-1 tvg-id="" tvg-name="UK: Motorsport TV (VIP)" tvg-logo="https://motorsport.tv/noimage.png" group-title="Sports uk backup",UK: Motorsport TV (VIP)
+http://wagnet.club:25461/greg/greg/268
+#EXTINF:-1 tvg-id="" tvg-name="UK: FreeSports FHD" tvg-logo="https://www.freesports.tv/assets/components/mor/General/img/freesports-logo-light.png" group-title="Sports uk backup",UK: FreeSports FHD
+http://wagnet.club:25461/greg/greg/261
+#EXTINF:-1 tvg-id="" tvg-name="UK: Fox Sports (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png" group-title="Sports uk backup",UK: Fox Sports (VIP)
+http://wagnet.club:25461/greg/greg/258
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eir Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Eirsportlogo.png" group-title="Sports uk backup",UK: Eir Sports 1 HD
+http://wagnet.club:25461/greg/greg/244
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eir Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Eirsportlogo.png" group-title="Sports uk backup",UK: Eir Sports 2 HD
+http://wagnet.club:25461/greg/greg/246
+#EXTINF:-1 tvg-id="" tvg-name="UK: Chelsea TV HD" tvg-logo="https://2.bp.blogspot.com/-HHbtJ5EKEwg/W5ivJ-EEC1I/AAAAAAABsZg/Ri244oP6-GATZy4lE7x2X58BRtL1l9m6ACLcBGAs/s1600/chelsea-fc-crest-redesign-by-socceredesign%2B%25283%2529.jpg" group-title="Club football",UK: Chelsea TV HD
+http://wagnet.club:25461/greg/greg/242
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 1 FHD" tvg-logo="https://media-assets-03.thedrum.com/cache/images/thedrum-prod/public-drum_basic_article-107300-main_images-bt-sport_0--default--512.jpg" group-title="Sports uk backup",UK: BT SPORT 1 FHD
+http://wagnet.club:25461/greg/greg/221
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 2 FHD" tvg-logo="https://media-assets-03.thedrum.com/cache/images/thedrum-prod/public-drum_basic_article-107300-main_images-bt-sport_0--default--512.jpg" group-title="Sports uk backup",UK: BT SPORT 2 FHD
+http://wagnet.club:25461/greg/greg/224
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT ESPN FHD" tvg-logo="https://3.bp.blogspot.com/-2z5ELG-PG8k/XDIVR206jBI/AAAAAAAAABk/kypvodwgsDc6oRamXtU_YjCQreKtn52hwCLcBGAs/s1600/bt-sport-espn.png" group-title="Sports uk backup",UK: BT SPORT ESPN FHD
+http://wagnet.club:25461/greg/greg/230
+#EXTINF:-1 tvg-id="" tvg-name="UK: BOX NATION (VIP)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png" group-title="Sports uk backup",UK: BOX NATION (VIP)
+http://wagnet.club:25461/greg/greg/218
+#EXTINF:-1 tvg-id="" tvg-name="UK: Flow Sports 1 HD" tvg-logo="https://sport-tv-guide.live/images/stations/a1553.png" group-title="Sports uk backup",UK: Flow Sports 1 HD
+http://wagnet.club:25461/greg/greg/256
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="SKY SPORTS MAIN EVENT FHD" tvg-logo="http://targetcreates.com/reloaded-logos/Sky%20Sports%20Main%20Event.png" group-title="UK SPORT",SKY SPORTS MAIN EVENT FHD
+http://wagnet.club:25461/greg/greg/99
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="SKY SPORTS FOOTBALL FHD" tvg-logo="http://targetcreates.com/reloaded-logos/Sky%20Sports%20Football.png" group-title="UK SPORT",SKY SPORTS FOOTBALL FHD
+http://wagnet.club:25461/greg/greg/101
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="SKY SPORTS PREMIER LEAGUE FHD" tvg-logo="http://targetcreates.com/reloaded-logos/Sky%20Sports%20League.png" group-title="UK SPORT",SKY SPORTS PREMIER LEAGUE FHD
+http://wagnet.club:25461/greg/greg/100
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="SKY SPORTS MIX FHD" tvg-logo="http://targetcreates.com/reloaded-logos/Sky%20Sports%20Mix.png" group-title="UK SPORT",SKY SPORTS MIX FHD
+http://wagnet.club:25461/greg/greg/107
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="SKY SPORTS ARENA FHD" tvg-logo="http://targetcreates.com/reloaded-logos/Sky%20Sports%20Arena.png" group-title="UK SPORT",SKY SPORTS ARENA FHD
+http://wagnet.club:25461/greg/greg/106
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="SKY SPORTS ACTION FHD" tvg-logo="http://targetcreates.com/reloaded-logos/Sky%20Sports%20Action.png" group-title="UK SPORT",SKY SPORTS ACTION FHD
+http://wagnet.club:25461/greg/greg/105
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="SKY SPORTS F1 FHD" tvg-logo="http://targetcreates.com/reloaded-logos/Sky%20Sports%20F1.png" group-title="UK SPORT",SKY SPORTS F1 FHD
+http://wagnet.club:25461/greg/greg/104
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="SKY SPORTS GOLF FHD" tvg-logo="http://targetcreates.com/reloaded-logos/Sky%20Sports%20Golf.png" group-title="UK SPORT",SKY SPORTS GOLF FHD
+http://wagnet.club:25461/greg/greg/103
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="SKY SPORTS CRICKET FHD" tvg-logo="http://targetcreates.com/reloaded-logos/Sky%20Sports%20Cricket.png" group-title="UK SPORT",SKY SPORTS CRICKET FHD
+http://wagnet.club:25461/greg/greg/102
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="SKY SPORTS NEWS FHD" tvg-logo="http://targetcreates.com/reloaded-logos/Sky%20Sports%20News.png" group-title="UK SPORT",SKY SPORTS NEWS FHD
+http://wagnet.club:25461/greg/greg/109
+#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="SKY SPORTS RACING FHD" tvg-logo="http://smart-house.tn/logo.smart-house.tn/logo/ss/sky-sports-racing-uk.png" group-title="UK SPORT",SKY SPORTS RACING FHD
+http://wagnet.club:25461/greg/greg/108
+#EXTINF:-1 tvg-id="racinguk.uk" tvg-name="RACING TV FHD" tvg-logo="http://targetcreates.com/reloaded-logos/Racing%20UK.png" group-title="UK SPORT",RACING TV FHD
+http://wagnet.club:25461/greg/greg/123
+#EXTINF:-1 tvg-id="" tvg-name="LFC TV FHD" tvg-logo="http://targetcreates.com/reloaded-logos/LFC%20TV.png" group-title="Club football",LFC TV FHD
+http://wagnet.club:25461/greg/greg/124
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="EUROSPORT 1 FHD" tvg-logo="http://targetcreates.com/reloaded-logos/Eurosport%201.png" group-title="UK SPORT",EUROSPORT 1 FHD
+http://wagnet.club:25461/greg/greg/121
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="EUROSPORT 2 FHD" tvg-logo="http://targetcreates.com/reloaded-logos/Eurosport%202.png" group-title="UK SPORT",EUROSPORT 2 FHD
+http://wagnet.club:25461/greg/greg/122
+#EXTINF:-1 tvg-id="boxnation.uk" tvg-name="BOX NATION " tvg-logo="http://targetcreates.com/reloaded-logos/BoxNation.png" group-title="UK SPORT",BOX NATION 
+http://wagnet.club:25461/greg/greg/91
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT SPORTS 1 FHD" tvg-logo="http://targetcreates.com/reloaded-logos/BT%20Sport%201.png" group-title="UK SPORT",BT SPORTS 1 FHD
+http://wagnet.club:25461/greg/greg/83
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="BT SPORTS 2 FHD" tvg-logo="http://targetcreates.com/reloaded-logos/BT%20Sport%202.png" group-title="UK SPORT",BT SPORTS 2 FHD
+http://wagnet.club:25461/greg/greg/84
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="BT SPORTS 3 FHD" tvg-logo="http://targetcreates.com/reloaded-logos/BT%20Sports%203.png" group-title="UK SPORT",BT SPORTS 3 FHD
+http://wagnet.club:25461/greg/greg/85
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS EXTRA 1" tvg-logo="" group-title="UK SPORT",BT SPORTS EXTRA 1
+http://wagnet.club:25461/greg/greg/92
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS EXTRA 2" tvg-logo="" group-title="UK SPORT",BT SPORTS EXTRA 2
+http://wagnet.club:25461/greg/greg/93
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS EXTRA 3" tvg-logo="" group-title="UK SPORT",BT SPORTS EXTRA 3
+http://wagnet.club:25461/greg/greg/94
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS EXTRA 4" tvg-logo="" group-title="UK SPORT",BT SPORTS EXTRA 4
+http://wagnet.club:25461/greg/greg/95
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS EXTRA 5" tvg-logo="" group-title="UK SPORT",BT SPORTS EXTRA 5
+http://wagnet.club:25461/greg/greg/96
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS EXTRA 7" tvg-logo="" group-title="UK SPORT",BT SPORTS EXTRA 7
+http://wagnet.club:25461/greg/greg/98
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS EXTRA 6" tvg-logo="" group-title="UK SPORT",BT SPORTS EXTRA 6
+http://wagnet.club:25461/greg/greg/97
+#EXTINF:-1 tvg-id="" tvg-name="FREESPORTS FHD" tvg-logo="" group-title="UK SPORT",FREESPORTS FHD
+http://wagnet.club:25461/greg/greg/125
+#EXTINF:-1 tvg-id="" tvg-name="PREMIER SPORT 1 FHD" tvg-logo="" group-title="UK SPORT",PREMIER SPORT 1 FHD
+http://wagnet.club:25461/greg/greg/126
+#EXTINF:-1 tvg-id="" tvg-name="PREMIER SPORT 2 FHD" tvg-logo="" group-title="UK SPORT",PREMIER SPORT 2 FHD
+http://wagnet.club:25461/greg/greg/127
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="UK: WWE Network HD" tvg-logo="https://officialpsds.com/imageview/7y/2n/7y2njk_large.png" group-title="WWE/UFC/FIGHT",UK: WWE Network HD
+http://wagnet.club:25461/greg/greg/322
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="UK: UFC Fight Pass HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="WWE/UFC/FIGHT",UK: UFC Fight Pass HD
+http://wagnet.club:25461/greg/greg/320
+#EXTINF:-1 tvg-id="" tvg-name="UK: FightBox HD" tvg-logo="https://spiintl.com/data/files/zdjecie/c0/de/c0de4296cb6087762e595bb1387ddf8852d9ecbde582e0e35c7e4af1bfc5e342.png" group-title="WWE/UFC/FIGHT",UK: FightBox HD
+http://wagnet.club:25461/greg/greg/254
+#EXTINF:-1 tvg-id="" tvg-name="EFL ifollow,EFL 01" tvg-logo="" group-title="Ifollow",EFL ifollow,EFL 01
+http://wagnet.club:25461/greg/greg/692
+#EXTINF:-1 tvg-id="" tvg-name="EFL ifollow,EFL 02" tvg-logo="" group-title="Ifollow",EFL ifollow,EFL 02
+http://wagnet.club:25461/greg/greg/693
+#EXTINF:-1 tvg-id="" tvg-name="EFL ifollow,EFL 03" tvg-logo="" group-title="Ifollow",EFL ifollow,EFL 03
+http://wagnet.club:25461/greg/greg/694
+#EXTINF:-1 tvg-id="" tvg-name="EFL ifollow,EFL 04" tvg-logo="" group-title="Ifollow",EFL ifollow,EFL 04
+http://wagnet.club:25461/greg/greg/695
+#EXTINF:-1 tvg-id="" tvg-name="EFL ifollow,EFL 05" tvg-logo="" group-title="Ifollow",EFL ifollow,EFL 05
+http://wagnet.club:25461/greg/greg/696
+#EXTINF:-1 tvg-id="" tvg-name="EFL ifollow,EFL 06" tvg-logo="" group-title="Ifollow",EFL ifollow,EFL 06
+http://wagnet.club:25461/greg/greg/697
+#EXTINF:-1 tvg-id="" tvg-name="EFL ifollow,EFL 07" tvg-logo="" group-title="Ifollow",EFL ifollow,EFL 07
+http://wagnet.club:25461/greg/greg/698
+#EXTINF:-1 tvg-id="" tvg-name="EFL ifollow,EFL 08" tvg-logo="" group-title="Ifollow",EFL ifollow,EFL 08
+http://wagnet.club:25461/greg/greg/699
+#EXTINF:-1 tvg-id="" tvg-name="EFL ifollow,EFL 09" tvg-logo="" group-title="Ifollow",EFL ifollow,EFL 09
+http://wagnet.club:25461/greg/greg/700
+#EXTINF:-1 tvg-id="" tvg-name="EFL ifollow,EFL 10" tvg-logo="" group-title="Ifollow",EFL ifollow,EFL 10
+http://wagnet.club:25461/greg/greg/701
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="ZZZ=====  ɪғᴏʟʟᴏᴡ ᴄʜᴀᴍᴘɪᴏɴsʜɪᴘ  =====" tvg-logo="" group-title="IFOLLOW",ZZZ=====  ɪғᴏʟʟᴏᴡ ᴄʜᴀᴍᴘɪᴏɴsʜɪᴘ  =====
 http://djdaves-epg.domin8.host:80/live/ADMIN-IFOLLOW/ADMIN-IFOLLOW/29827.m3u8
