@@ -1786,6 +1786,114 @@ http://djdaves-epg.domin8.host:80/live/EMBY-SEASON-TICKET/EMBY-SEASON-TICKET/300
 http://xc1.domin8.tv:88/PPV6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ELITE EPL: NBC Gold FHD 20" tvg-logo="http://picon.domin8.tv/NBCGOLD.png" group-title="",ELITE EPL: NBC Gold FHD 20
 http://djdaves-epg.domin8.host:80/live/EMBY-SEASON-TICKET/EMBY-SEASON-TICKET/30104.m3u8
-
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="✰✰✰ IFOLLOW CHAMPIONSHIP  ✰✰✰" tvg-logo="" group-title="IFOLLOW CHAMPIONSHIP",✰✰✰ IFOLLOW CHAMPIONSHIP  ✰✰✰
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/29827.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELC: Leeds United Vs Blackburn Rovers (15:00 9/11)" tvg-logo="http://picon.domin8.tv/elc.png" group-title="IFOLLOW CHAMPIONSHIP",ELC: Leeds United Vs Blackburn Rovers (15:00 9/11)
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/30949.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EFL1: Portsmouth Vs Fleetwood Town (15:00 16/11)" tvg-logo="http://picon.domin8.tv/efl1.png" group-title="IFOLLOW LEAGUE 1",EFL1: Portsmouth Vs Fleetwood Town (15:00 16/11)
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/30948.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELC: Millwall Vs Charlton Athletic (15:00 9/11)" tvg-logo="http://picon.domin8.tv/elc.png" group-title="IFOLLOW CHAMPIONSHIP",ELC: Millwall Vs Charlton Athletic (15:00 9/11)
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/30947.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELC: Preston North End Vs Huddersfield Town (15:00 9/11)" tvg-logo="http://picon.domin8.tv/elc.png" group-title="IFOLLOW CHAMPIONSHIP",ELC: Preston North End Vs Huddersfield Town (15:00 9/11)
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/30946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELC: Hull City Vs West Bromwich Albion (15:00 9/11)" tvg-logo="http://picon.domin8.tv/elc.png" group-title="IFOLLOW CHAMPIONSHIP",ELC: Hull City Vs West Bromwich Albion (15:00 9/11)
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/30950.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELC: Queens Park Rangers Vs Middlesbrough (15:00 9/11)" tvg-logo="http://picon.domin8.tv/elc.png" group-title="IFOLLOW CHAMPIONSHIP",ELC: Queens Park Rangers Vs Middlesbrough (15:00 9/11)
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/30945.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELC: Reading Vs Luton Town (15:00 9/11)" tvg-logo="http://picon.domin8.tv/elc.png" group-title="IFOLLOW CHAMPIONSHIP",ELC: Reading Vs Luton Town (15:00 9/11)
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/30944.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELC: Sheffield Wednesday Vs Swansea City (15:00 9/11)" tvg-logo="http://picon.domin8.tv/elc.png" group-title="IFOLLOW CHAMPIONSHIP",ELC: Sheffield Wednesday Vs Swansea City (15:00 9/11)
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/30943.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELC: Wigan Athletic Vs Brentford (15:00 9/11)" tvg-logo="http://picon.domin8.tv/elc.png" group-title="IFOLLOW CHAMPIONSHIP",ELC: Wigan Athletic Vs Brentford (15:00 9/11)
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/30942.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELC: Cardiff City Vs Bristol City (12:00 10/11)" tvg-logo="http://picon.domin8.tv/elc.png" group-title="IFOLLOW CHAMPIONSHIP",ELC: Cardiff City Vs Bristol City (12:00 10/11)
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/30941.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELC: West Bromwich Albion Vs Charlton" tvg-logo="" group-title="IFOLLOW CHAMPIONSHIP",ELC: West Bromwich Albion Vs Charlton
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/30939.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELC: Brentford Vs Huddersfield Town" tvg-logo="" group-title="IFOLLOW CHAMPIONSHIP",ELC: Brentford Vs Huddersfield Town
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/30940.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZZZ=====  ɪғᴏʟʟᴏᴡ ʟᴇᴀɢᴜᴇ ᴏɴᴇ  =====" tvg-logo="http://picon.domin8.tv/LEAGUE1.png" group-title="",ZZZ=====  ɪғᴏʟʟᴏᴡ ʟᴇᴀɢᴜᴇ ᴏɴᴇ  =====
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/29815.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EFL1: TBC 2" tvg-logo="http://picon.domin8.tv/efl1.png" group-title="IFOLLOW LEAGUE 1",EFL1: TBC 2
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/30961.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EFL1: Coventry City Vs Rochdale (15:00 16/11)" tvg-logo="http://picon.domin8.tv/efl1.png" group-title="IFOLLOW LEAGUE 1",EFL1: Coventry City Vs Rochdale (15:00 16/11)
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/30970.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EFL1: Oxford United Vs Ipswich Town (15:00 16th)/11)" tvg-logo="http://picon.domin8.tv/efl1.png" group-title="IFOLLOW LEAGUE 1",EFL1: Oxford United Vs Ipswich Town (15:00 16th)/11)
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/30969.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELC: Barnsley Vs Stoke City (15:00 9/11)" tvg-logo="http://picon.domin8.tv/elc.png" group-title="IFOLLOW CHAMPIONSHIP",ELC: Barnsley Vs Stoke City (15:00 9/11)
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/30968.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EFL1: Bolton Wanderers Vs MK Dons (15:00 16/11)" tvg-logo="http://picon.domin8.tv/efl1.png" group-title="IFOLLOW LEAGUE 1",EFL1: Bolton Wanderers Vs MK Dons (15:00 16/11)
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/30967.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EFL1: Rotherham United Vs Accrington Stanley (15:00 16/11)" tvg-logo="http://picon.domin8.tv/efl1.png" group-title="IFOLLOW LEAGUE 1",EFL1: Rotherham United Vs Accrington Stanley (15:00 16/11)
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/30966.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELC: Birmingham City Vs Fulham (15:00 9/11)" tvg-logo="http://picon.domin8.tv/elc.png" group-title="IFOLLOW CHAMPIONSHIP",ELC: Birmingham City Vs Fulham (15:00 9/11)
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/30965.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EFL1: Tranmere Rovers Vs Wycombe Wanderers (12:00 17/11)" tvg-logo="http://picon.domin8.tv/efl1.png" group-title="IFOLLOW LEAGUE 1",EFL1: Tranmere Rovers Vs Wycombe Wanderers (12:00 17/11)
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/30964.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EFL1: TBC 1" tvg-logo="http://picon.domin8.tv/efl1.png" group-title="IFOLLOW LEAGUE 1",EFL1: TBC 1
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/30963.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EFL1: Bristol Rovers Vs Sunderland (15:00 16/11)" tvg-logo="http://picon.domin8.tv/efl1.png" group-title="IFOLLOW LEAGUE 1",EFL1: Bristol Rovers Vs Sunderland (15:00 16/11)
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/30962.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZZZ=====  ɪғᴏʟʟᴏᴡ ʟᴇᴀɢᴜᴇ ᴛᴡᴏ  =====" tvg-logo="" group-title="",ZZZ=====  ɪғᴏʟʟᴏᴡ ʟᴇᴀɢᴜᴇ ᴛᴡᴏ  =====
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/29802.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EFL2: Grimsby Town Vs Newport County (15:00 16/11)" tvg-logo="http://picon.domin8.tv/efl2.png" group-title="IFOLLOW LEAGUE 2",EFL2: Grimsby Town Vs Newport County (15:00 16/11)
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/30960.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EFL2: Leyton Orient Vs Scunthorpe United (15:00 16/11)" tvg-logo="http://picon.domin8.tv/efl2.png" group-title="IFOLLOW LEAGUE 2",EFL2: Leyton Orient Vs Scunthorpe United (15:00 16/11)
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/30959.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EFL2: Macclesfield Town Vs Mansfield Town (15:00 16/11)" tvg-logo="http://picon.domin8.tv/efl2.png" group-title="IFOLLOW LEAGUE 2",EFL2: Macclesfield Town Vs Mansfield Town (15:00 16/11)
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/30958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EFL2: Northampton Town Vs Crewe Alexandra (15:00 16/11)" tvg-logo="http://picon.domin8.tv/efl2.png" group-title="IFOLLOW LEAGUE 2",EFL2: Northampton Town Vs Crewe Alexandra (15:00 16/11)
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/30957.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELC: Nottingham Forest Vs Derby County (12:30 9/11)" tvg-logo="http://picon.domin8.tv/elc.png" group-title="IFOLLOW CHAMPIONSHIP",ELC: Nottingham Forest Vs Derby County (12:30 9/11)
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/30956.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EFL2: Port Vale Vs Carlisle United (15:00 16/11)" tvg-logo="http://picon.domin8.tv/efl2.png" group-title="IFOLLOW LEAGUE 2",EFL2: Port Vale Vs Carlisle United (15:00 16/11)
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/30955.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EFL2: Salford City Vs Swindon Town (15:00 16/11)" tvg-logo="http://picon.domin8.tv/efl2.png" group-title="IFOLLOW LEAGUE 2",EFL2: Salford City Vs Swindon Town (15:00 16/11)
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/30954.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EFL2: Stevenage Vs Oldham Athletic (15:00 16/11)" tvg-logo="http://picon.domin8.tv/efl2.png" group-title="IFOLLOW LEAGUE 2",EFL2: Stevenage Vs Oldham Athletic (15:00 16/11)
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/30953.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EFL2: Walsall Vs Cambridge United (15:00 16/11)" tvg-logo="http://picon.domin8.tv/efl2.png" group-title="IFOLLOW LEAGUE 2",EFL2: Walsall Vs Cambridge United (15:00 16/11)
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/30952.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="*EFL2: Oldham Athletic vs Northampton Town" tvg-logo="" group-title="IFOLLOW LEAGUE 2",*EFL2: Oldham Athletic vs Northampton Town
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/30951.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EFL2: Forest Green Rovers Vs Plymouth Argyle (15:00 16/11)" tvg-logo="http://picon.domin8.tv/efl2.png" group-title="IFOLLOW LEAGUE 2",EFL2: Forest Green Rovers Vs Plymouth Argyle (15:00 16/11)
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/31287.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EFL2: Exeter City Vs Cheltenham Town (15:00 16/11)" tvg-logo="http://picon.domin8.tv/efl2.png" group-title="IFOLLOW LEAGUE 2",EFL2: Exeter City Vs Cheltenham Town (15:00 16/11)
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/31288.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EFL2: Crawley Town Vs Morecambe (15:00 16/11)" tvg-logo="http://picon.domin8.tv/efl2.png" group-title="IFOLLOW LEAGUE 2",EFL2: Crawley Town Vs Morecambe (15:00 16/11)
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/31289.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EFL1: Doncaster Rovers Vs Shrewsbury Town (15:00 16/11)" tvg-logo="http://picon.domin8.tv/efl1.png" group-title="IFOLLOW LEAGUE 1",EFL1: Doncaster Rovers Vs Shrewsbury Town (15:00 16/11)
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/31290.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EFL1: Gillingham Vs Lincoln City (15:00 16/11)" tvg-logo="" group-title="IFOLLOW LEAGUE 1",EFL1: Gillingham Vs Lincoln City (15:00 16/11)
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/31291.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EFL1: Blackpool Vs AFC Wimbledon (15:00 16/11)" tvg-logo="http://picon.domin8.tv/efl1.png" group-title="IFOLLOW LEAGUE 1",EFL1: Blackpool Vs AFC Wimbledon (15:00 16/11)
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/31292.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPL: Hibernian vs Celtic" tvg-logo="" group-title="UK SPORTS",SPL: Hibernian vs Celtic
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/31293.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPL; Motherwell vs Livingston" tvg-logo="" group-title="UK SPORTS",SPL; Motherwell vs Livingston
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/31294.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPL: Hamilton Academical vs Ross County" tvg-logo="" group-title="UK SPORTS",SPL: Hamilton Academical vs Ross County
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/31295.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPL: Aberdeen vs Kilmarnock" tvg-logo="" group-title="UK SPORTS",SPL: Aberdeen vs Kilmarnock
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/31296.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="✰✰✰ IFOLLOW LEAGUE 2 ✰✰✰" tvg-logo="" group-title="IFOLLOW LEAGUE 2",✰✰✰ IFOLLOW LEAGUE 2 ✰✰✰
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/29744.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="✰✰✰ IFOLLOW LEAGUE 1  ✰✰✰" tvg-logo="http://picon.domin8.tv/efl1.png" group-title="",✰✰✰ IFOLLOW LEAGUE 1  ✰✰✰
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/17779.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FA CUP: Leyton Orient vs. Maldon & Tiptree" tvg-logo="http://picon.domin8.tv/FACUP.png" group-title="EPL SEASON TICKET",FA CUP: Leyton Orient vs. Maldon & Tiptree
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/29691.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FA CUP: Maidenhead United vs. Rotherham United" tvg-logo="http://picon.domin8.tv/FACUP.png" group-title="EPL SEASON TICKET",FA CUP: Maidenhead United vs. Rotherham United
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/29694.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FA CUP: Hayes & Yeading vs. Oxford United" tvg-logo="http://picon.domin8.tv/FACUP.png" group-title="EPL SEASON TICKET",FA CUP: Hayes & Yeading vs. Oxford United
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/29693.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FA CUP: Dover Athletic vs. Southend United" tvg-logo="http://picon.domin8.tv/FACUP.png" group-title="EPL SEASON TICKET",FA CUP: Dover Athletic vs. Southend United
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/29692.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FA CUP: Barnet vs. Fleetwood Town" tvg-logo="http://picon.domin8.tv/FACUP.png" group-title="EPL SEASON TICKET",FA CUP: Barnet vs. Fleetwood Town
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/29690.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FA CUP: Chippenham Town vs. Northampton Town" tvg-logo="http://picon.domin8.tv/FACUP.png" group-title="EPL SEASON TICKET",FA CUP: Chippenham Town vs. Northampton Town
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/29689.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FA CUP: 2 Round Draw" tvg-logo="http://picon.domin8.tv/FACUP.png" group-title="EPL SEASON TICKET",FA CUP: 2 Round Draw
+http://djdaves-epg.domin8.host:80/live/M4UNDYS-IFOLLOW/M4UNDYS-IFOLLOW/29688.m3u8
 
 
